@@ -1,0 +1,357 @@
+tmin,tmax,speaker,message
+1.0,7.0,Interviewer,The first thing I want to ask you is just how things have been going for you recently?
+7.0,12.0,Subject,Okay. It's weird.
+12.0,14.0,Interviewer,Weird how?
+14.0,17.0,Subject,Finding out some new stuff about me.
+17.0,18.0,Interviewer,What kind of new stuff?
+18.0,21.0,Subject,Psychosis?
+21.0,31.0,Interviewer,Okay. Do you want to talk about that? No? Okay. We don't have to talk about that. So what else has been going on?
+31.0,33.0,Subject,Nothing much.
+33.0,38.0,Interviewer,No? Okay. What did you do last weekend?
+38.0,39.0,Subject,I think you asked me that.
+39.0,41.0,Interviewer,No.
+41.0,42.0,Subject,I was watching American Vandal.
+42.0,49.0,Interviewer,Okay. And why do you like American Vandal? Or what makes you keep watching?
+49.0,59.0,Subject,"Well, I just finished two seasons. I don't know when season three's coming out, but it kind of reminds me about Law and Order."
+59.0,61.0,Interviewer,Is that something you like?
+61.0,63.0,Subject,Yes.
+63.0,65.0,Interviewer,So what do you like about Law and Order?
+65.0,68.0,Subject,I which it with my sister. It's one of her favorite shows.
+68.0,72.0,Interviewer,"Oh, that's nice. Do you like doing things with your sister?"
+72.0,73.0,Subject,Yes.
+73.0,75.0,Interviewer,Why?
+75.0,76.0,Subject,She's my favorite.
+76.0,79.0,Interviewer,Aww. What do you mean your favorite?
+79.0,80.75,Subject,I'm more close to her.
+80.75,81.0,Interviewer,Than?
+81.0,83.0,Subject,Than my other two sisters.
+83.0,87.0,Interviewer,Okay. And why do you think that is?
+87.0,95.0,Subject,"Because I guess on my mother's side, we're both the youngest, even though she's like 30."
+95.0,97.0,Interviewer,That's not too big an age gap.
+97.0,100.0,Subject,No.
+100.0,103.0,Interviewer,[inaudible]. So how often do you see her?
+103.0,104.0,Subject,I'm about to go see her in a few.
+104.0,115.0,Interviewer,Yeah? Okay. And so what do you enjoy about Law and Order with her?
+115.0,118.0,Subject,"Just sitting down and watching TV together, I guess."
+118.0,124.0,Interviewer,Yeah? Why is that enjoyable?
+124.0,130.0,Subject,"I don't know. It just seems all right, I guess. I don't know."
+130.0,138.0,Interviewer,So you mentioned things have been kind of weird now. Do you think that's different from before?
+138.0,139.0,Subject,Mm-mm.
+139.0,144.0,Interviewer,"No, it's always been weird? How so?"
+144.0,149.0,Subject,It just feels weird. It's always been like that.
+149.0,156.0,Interviewer,"What do you mean, weird?"
+156.0,167.0,Subject,It just feels weird. No meaning.
+167.0,179.0,Interviewer,"Okay. No meaning. Well. So if it was always like this, do you feel any difference now?"
+179.0,191.0,Subject,"Maybe a little, because now I kind of want to do studies. So if I have kids and they somehow get the gene, I would like to teach them."
+191.0,197.75,Interviewer,"Yeah. Yeah. That's a lot of what we do here, helping the next--"
+197.75,198.0,Subject,Generation.
+198.0,225.0,Interviewer,"But also, we think there's a lot of hope for this one, too. I think it's going to be okay. So things are both different and the same. What do you think is in store for the future?"
+225.0,226.0,Subject,I don't know.
+226.0,227.0,Interviewer,You don't know?
+227.0,228.0,Subject,I just go one day at a time.
+228.0,236.0,Interviewer,"One day at a time, okay. That's not a bad way to live. Why do you think you want to live that way?"
+236.0,239.0,Subject,Because tomorrow's not promised.
+239.0,245.0,Interviewer,Tomorrow's not promised. Can you elaborate?
+245.0,250.0,Subject,Anything can happen to you. You don't know.
+250.0,254.0,Interviewer,"Sure. But that also means good things, right?"
+254.0,256.0,Subject,Yeah.
+256.0,266.0,Interviewer,What do you think is the best thing that could happen?
+266.0,270.0,Subject,I don't know.
+270.0,271.0,Interviewer,You don't know.
+271.0,272.0,Subject,I just have to wait.
+272.0,292.0,Interviewer,"Just have to wait. Okay. Well, if you don't have any-- so let's talk about when you're in school. What made you happiest then?"
+292.0,293.0,Subject,Basketball.
+293.0,296.75,Interviewer,Basketball? Okay. Did you play a lot of basketball?
+296.75,297.0,Subject,Yes.
+297.0,299.0,Interviewer,What position do you [inaudible]?
+299.0,300.0,Subject,Center.
+300.0,302.0,Interviewer,I don't know what that means.
+302.0,309.0,Subject,There's five rows of players on the court. The leader and the point guard.
+309.0,310.0,Interviewer,Five players per team?
+310.0,338.0,Subject,"No. Twelve. Twelve to fifteen. And there's five people that go on the court from each state to play whatever minutes they give you, and then the other teams come out to switch. So for basketball is to point guard. There is a shooting guard, a small forward, a power forward, and a center. The center is the [big man?]."
+338.0,338.75,Interviewer,Okay. That's you?
+338.75,339.0,Subject,Yeah.
+339.0,343.0,Interviewer,Okay. So what are their different responsibilities?
+343.0,366.0,Subject,"The point guard is to be the leader, score, pass the ball. Shooting guard is just to shoot. Small forward probably could do both if the center is pretty bound and shoot if they want to. Play defense."
+366.0,370.0,Interviewer,"Okay. So you've played kind of both defense and offense, then? Okay."
+370.0,371.0,Subject,Yes.
+371.0,379.0,Interviewer,"Gotcha. So what makes that the happiest in the [inaudible]? Do you have a specific memory, or?"
+379.0,380.75,Subject,When are you--?
+380.75,381.0,Interviewer,I don't know.
+381.0,383.0,Subject,Two championships back-to-back.
+383.0,386.0,Interviewer,All right. Two different years?
+386.0,387.0,Subject,Back-to-back years.
+387.0,395.0,Interviewer,Cool. That's pretty cool. Okay. So how many games does a-- how does it work?
+395.0,412.0,Subject,"Some good schools are different. I wonder how many games did we play? I know there's, I think, 20 regular or 30 regular games, and then you have to qualify for the playoffs."
+412.0,414.0,Interviewer,What's a regular game?
+414.0,416.0,Subject,A regular season game.
+416.0,421.0,Interviewer,"Okay. So the regular season happens first, and then?"
+421.0,456.0,Subject,"The playoffs. And then you play against people. You win, keep on moving on, and then after the championship, you get to go to something called a Class D. It's another game that you play, I think, for the country or state before you get to qualify. Because I had went to the final fours in [inaudible]. Then we lost."
+456.0,459.0,Interviewer,So that was a regional championship?
+459.0,476.0,Subject,"Yeah. Okay. Gotcha. And how's that different from the regular season? Is the regular season not a tournament? I mean it is, but I guess it prepares you to win a championship if you win."
+476.0,487.0,Interviewer,Gotcha. Okay. And so what are your-- Was it your teammates? Was it playing? What made it be--?
+487.0,488.0,Subject,What made it we lose?
+488.0,491.0,Interviewer,"No, no. What made you happy about playing?"
+491.0,492.0,Subject,"The brotherhood, I guess."
+492.0,499.0,Interviewer,Brotherhood. From being on a team? How was it a brotherhood?
+499.0,508.0,Subject,"We all became a family, I guess because we always played with each other."
+508.0,509.0,Interviewer,Since when?
+509.0,515.0,Subject,We always been around each other when we play basketball.
+515.0,519.0,Interviewer,Weren't you around people all day at school?
+519.0,524.0,Subject,Yeah. I guess we all got closer as a team.
+524.0,527.0,Interviewer,What do you think made that happen?
+527.0,528.0,Subject,Basketball.
+528.0,532.0,Interviewer,That's it? Just throwing around a ball? There was nothing else?
+532.0,536.0,Subject,Everybody loves basketball [laughter].
+536.0,538.0,Interviewer,Why do you think that is?
+538.0,542.0,Subject,"It's a sport, and it's fun to watch and play."
+542.0,545.0,Interviewer,"Let me tell you, I don't love sports. Let's not--"
+545.0,550.0,Subject,But have you tried it? Don't you want to know?
+550.0,555.0,Interviewer,I guess that's true. Okay. Do you play other sports? Or is basketball your thing?
+555.0,557.0,Subject,Football.
+557.0,558.0,Interviewer,Football?
+558.0,560.0,Subject,But basketball was mostly my favorite.
+560.0,564.0,Interviewer,Why?
+564.0,576.0,Subject,"I guess I love basketball more. I mean, I don't really know that much about football, but it was cool bonding with other players. I loved it. The same [inaudible]."
+576.0,588.0,Interviewer,That does sound fun. So did you play football in high school too? Okay. So there are different seasons?
+588.0,596.0,Subject,"We start in the summer. You can do tournaments in the summer too with basketball, but I tried football."
+596.0,597.0,Interviewer,In the fall or in the winter?
+597.0,612.0,Subject,"It's from the summer to end of October. Then basketball starts November-ish, December."
+612.0,629.0,Interviewer,"Okay. Okay. Is there a particular game or a story that really makes you think, ""This is why I love basketball?"""
+629.0,632.0,Subject,My favorite player.
+632.0,633.0,Interviewer,Who's that?
+633.0,647.0,Subject,He's Rajon Rondo. Now he's playing for the Lakers right next to LeBron James. He's smarter than [inaudible] and one of the best high-IQ players.
+647.0,649.0,Interviewer,What does that mean?
+649.0,659.0,Subject,"One of the smartest. He knows the whole game. He can dissect everything, play [inaudible] to defense."
+659.0,661.0,Interviewer,What do you mean dissect? What's [inaudible]?
+661.0,664.0,Subject,Break down.
+664.0,667.0,Interviewer,How does that help you?
+667.0,673.0,Subject,"I learned from him, just watching him play. So I can kind of learn and help other people."
+673.0,676.0,Interviewer,What kinds of things did you learn?
+676.0,684.0,Subject,"Defense, how to play it. You have to watch film."
+684.0,691.0,Interviewer,So what kind of things have you learned and taught? What makes a good defense?
+691.0,700.0,Subject,"A strong team, I guess. A strong bond, so we can rely on each other."
+700.0,706.0,Interviewer,Okay. So what do you think makes a strong bond?
+706.0,710.0,Subject,Getting to know people.
+710.0,711.0,Interviewer,Off the court?
+711.0,713.0,Subject,On and off the court.
+713.0,720.0,Interviewer,How are those different?
+720.0,728.0,Subject,"Because people, I guess, are different on and off the court. I don't know. It was just different."
+728.0,733.0,Interviewer,Different how?
+733.0,738.0,Subject,You're not playing the game you love at the moment.
+738.0,741.0,Interviewer,So?
+741.0,746.0,Subject,[inaudible] to talk about basketball [inaudible]?
+746.0,750.0,Interviewer,Is that what you talk about most of the time with your teammates?
+750.0,752.0,Subject,Pretty much.
+752.0,758.0,Interviewer,Okay. And what kind of things do you talk about when you talk about basketball?
+758.0,765.0,Subject,Players in the NBA and what teams are better than other teams.
+765.0,768.0,Interviewer,Does that cause tension?
+768.0,772.0,Subject,Not for me. I really don't care. Probably for other people.
+772.0,779.0,Interviewer,Okay. So what are your opinions about the best?
+779.0,787.0,Subject,"You have to work hard to get where you're at. But if you want to win the championship, you have to work hard and play."
+787.0,792.0,Interviewer,So what is working hard?
+792.0,811.0,Subject,"Always being on gym on time, always working out, working on your craft like your game, your shooting, your defense, your rebounding. Anything."
+811.0,819.0,Interviewer,Okay. So is there anything you are particularly strong in?
+819.0,822.0,Subject,Defense.
+822.0,825.0,Interviewer,In what capacity?
+825.0,827.0,Subject,I used to block a lot of shots [laughter].
+827.0,832.0,Interviewer,"You're pretty tall, I'll give you that one. That's pretty cool."
+832.0,843.0,Subject,"I think one game, I took out like seven, eight. It was a funny thing. It was against my former coach from my old school [laughter]."
+843.0,845.0,Interviewer,How did he feel about that?
+845.0,848.0,Subject,He laughed.
+848.0,849.0,Interviewer,He wasn't upset?
+849.0,856.0,Subject,Even though we beat him. But I guess I don't know. I think he was the coach or assistant coach. I don't remember.
+856.0,856.75,Interviewer,Were there two?
+856.75,857.0,Subject,Huh?
+857.0,860.0,Interviewer,Are there two coaches?
+860.0,875.0,Subject,"From my old high school, you have rec. So he was one of the rec teachers. He was the coach at one time before he transferred."
+875.0,879.0,Interviewer,Okay. Do you ever want to coach?
+879.0,883.0,Subject,Maybe. Maybe some day. I'm not too sure.
+883.0,886.0,Interviewer,Why?
+886.0,895.0,Subject,"I don't know. I don't know. It's not that I'm not smart enough. I have to learn so much about coaching, so it's hard work."
+895.0,899.75,Interviewer,"Yeah. I wonder, where does one do that?"
+899.75,900.0,Subject,What?
+900.0,904.0,Interviewer,Is there coaching school?
+904.0,912.0,Subject,Not really. I think you just got to watch film and learn a lot of stuff.
+912.0,916.0,Interviewer,"Yeah. What do you mean, ""watch?"" Like old games?"
+916.0,923.0,Subject,Or you could just talk to coaches.
+923.0,931.0,Interviewer,"So I'm interested in this idea, dissecting defense. So how does that work?"
+931.0,936.0,Subject,"You would know the other team's defense and offense, how they--"
+936.0,939.0,Interviewer,What does it mean to know their offense and defense?
+939.0,953.0,Subject,"For offense, there's plays. So when you which a film, you see what plays they run, what defense they run, how you can break that down to score. New skills."
+953.0,963.0,Interviewer,Okay. It's like what you could have done to do that. Excellent. Okay. And so he does that on the court? Okay.
+963.0,965.0,Subject,On and off the court.
+965.0,969.0,Interviewer,And that's what you do? Okay.
+969.0,973.0,Subject,Nah the basketball players are similar. [laughter].
+973.0,981.0,Interviewer,"Well, the good ones are really. That's very cool. So do you ever play anymore?"
+981.0,983.0,Subject,"Not really, no."
+983.0,985.0,Interviewer,Why do you think that is?
+985.0,987.0,Subject,I got lazy.
+987.0,989.0,Interviewer,"What do you mean, lazy?"
+989.0,1006.0,Subject,"I mean, the love for basketball is still there, but I don't know, after high school, it just hasn't been the same. Why? Because everybody, I guess, went somewhere else to play basketball, or they went to do something else. I don't know."
+1006.0,1008.0,Interviewer,So what are you up to now?
+1008.0,1010.0,Subject,Playing video games.
+1010.0,1012.0,Interviewer,"Ah, that's fun."
+1012.0,1013.0,Subject,Fortnite.
+1013.0,1019.0,Interviewer,"Oh, I've heard about that one. Okay. So tell me about that."
+1019.0,1035.0,Subject,"Fortnite? I mean it's pretty fun. You get to build, fight against other people, and you can play as yourself as a solo player, or you could play with your friends."
+1035.0,1039.0,Interviewer,Cool. Which one do you do?
+1039.0,1041.0,Subject,Whichever one I want to [laughter].
+1041.0,1046.0,Interviewer,Okay. Why don't you tell me-- how does it work when you play with friends?
+1046.0,1049.0,Subject,"Oh, the game starts off with 100 people."
+1049.0,1050.0,Interviewer,Oh my God.
+1050.0,1061.0,Subject,"It's like a Battle Royale. There could be duos, squads, or solos. And if you want to play with friends, you can do duos or squads."
+1061.0,1062.0,Interviewer,What's a squad?
+1062.0,1083.0,Subject,"Squad is a club of four people. So there's four people basically against 96-- no. 96? Yeah, 96 people. And then it's a big mess, and you go around, you come off from a bus skydiving, and this like umbrella pops out, so you'll be safe."
+1083.0,1085.0,Interviewer,"Wait, you're skydiving off a bus?"
+1085.0,1089.0,Subject,Yeah. You jump out of a bus skydiving.
+1089.0,1094.0,Interviewer,Is the bus in the air? Okay. And then what?
+1094.0,1100.0,Subject,"Once you get down, you have to find a gun, or you can get killed in the game."
+1100.0,1102.0,Interviewer,It's like the Hunger Games.
+1102.0,1103.0,Subject,Basically.
+1103.0,1109.0,Interviewer,Okay. So how long does it last if 100 people to get knocked out?
+1109.0,1111.0,Subject,"A game can last maybe 20 minutes, depending."
+1111.0,1112.0,Interviewer,That's it?
+1112.0,1137.0,Subject,"Mm-hmm. It depends on like--. And then the circle shrinks, so it's like a circle that does damage to you. So the circle keeps on going and going. If you get caught in the circle and you don't have advantages like a med kit, you'll die. Well, not necessarily die. If you playin with squads, you get knocked down and they could try to come pick you up."
+1137.0,1142.0,Interviewer,Okay. So it's better to play with a squad?
+1142.0,1143.0,Subject,Yeah.
+1143.0,1153.0,Interviewer,Okay. Okay. Do you normally play with a squad? How do you play?
+1153.0,1160.0,Subject,"Yeah mostly with a squad, duos or squads. Sometimes solos if I can't find nobody to play with."
+1160.0,1173.0,Interviewer,And everyone is live? So you're playing with 100 people who are live? Okay. A lot of people like to play.
+1173.0,1185.0,Subject,Yes. Maybe 10 million people playing the game. It has a big impact in the world because it's free.
+1185.0,1188.0,Interviewer,So it's online?
+1188.0,1191.0,Subject,You can play it on your phone. You can get console.
+1191.0,1199.0,Interviewer,That's pretty cool that it is optimized for all of that. How did you start playing?
+1199.0,1206.0,Subject,My cousin. He showed me the game and I got addicted [laughter].
+1206.0,1207.0,Interviewer,What's addicting?
+1207.0,1212.0,Subject,"Not necessarily addicted, but I like playing the game a lot."
+1212.0,1216.0,Interviewer,Okay. Do you see your cousins often?
+1216.0,1219.0,Subject,No. Most of my cousins live in Boston--
+1219.0,1222.0,Interviewer,"Oh, that's fine."
+1222.0,1229.0,Subject,"--on my father's side. On my mother's side, I see them here and there."
+1229.0,1233.0,Interviewer,They live in New York?
+1233.0,1241.0,Subject,"And then, I have family in [Chile?] that I've never met. I have [inaudible] and cousins and whatever [inaudible]."
+1241.0,1243.0,Interviewer,Okay. So which side is that?
+1243.0,1244.0,Subject,My mother's side.
+1244.0,1246.0,Interviewer,Very cool.
+1246.0,1257.0,Subject,"And my father has a sister, but they don't talk, or I don't think so. Well he said I don't think you never met her like that, from his father's side."
+1257.0,1259.0,Interviewer,Okay. So a half sister?
+1259.0,1263.0,Subject,Mm-hmm. I have a lot of family.
+1263.0,1273.0,Interviewer,Yeah. You have. Do you like spending time with them? What are the pros and the cons?
+1273.0,1286.0,Subject,"I mean, it depends if my other cousins are there. We get to go hang out, maybe play some video games or go out to drink or play pool or something."
+1286.0,1293.0,Interviewer,Okay. So how did you start playing pool?
+1293.0,1298.0,Subject,"Well, I had an uncle who used to have a pool in their house. Pool table."
+1298.0,1303.0,Interviewer,Wow. That's pretty cool. Where did they live?
+1303.0,1304.0,Subject,Boston.
+1304.0,1305.0,Interviewer,Boston?
+1305.0,1306.0,Subject,"Well, Massachusetts."
+1306.0,1315.0,Interviewer,"There's more space in Massachusetts than anything else, but. Were you any good?"
+1315.0,1318.0,Subject,So-so.
+1318.0,1325.0,Interviewer,Okay. So what other video games you play with your cousins? Or alone?
+1325.0,1329.0,Subject,Or friends. Basketball games.
+1329.0,1336.0,Interviewer,"They have basketball video games? Oh, is that like the Wii?"
+1336.0,1339.0,Subject,"I mean, they have it for the Wii, but."
+1339.0,1341.0,Interviewer,That's all I know [laughter].
+1341.0,1342.0,Subject,Wii Sports.
+1342.0,1353.0,Interviewer,Yeah. That's the only time I go doing that. Okay. So what other? Can you describe them?
+1353.0,1358.0,Subject,That's a lot of detail.
+1358.0,1359.0,Interviewer,I like detail.
+1359.0,1385.0,Subject,"That's a lot of work. Oh. There's a game I'm playing right now called 2K19. It's a basketball game where it's a open world. You get to make your own character and play against other characters. Three v three, five v five, two v two, one on ones. You have to try to get the top rep, which is equivalent to 99."
+1385.0,1387.0,Interviewer,Shots?
+1387.0,1389.0,Subject,No. I'm level 2.
+1389.0,1392.0,Interviewer,"Oh, okay."
+1392.0,1403.0,Subject,"You start off at 60. You get some virtual coins. You can go to 85, and then you have to start playing the game to level up to 99, which is really hard."
+1403.0,1409.0,Interviewer,And how do you win once you get up to that level?
+1409.0,1410.0,Subject,That's it.
+1410.0,1411.0,Interviewer,"No, no"
+1411.0,1413.0,Subject,"Oh, what do you win as a [inaudible]?"
+1413.0,1420.0,Interviewer,"No, no, no. Once you get the coins, how do you win the last round that's so hard? What makes it so hard?"
+1420.0,1436.0,Subject,"To hit 99 overall? To doing the other overalls, you get bars. So it's a bar where you level up. Sometimes they give you three bars, two bars, but the bars are hard to level up."
+1436.0,1438.0,Interviewer,Okay. Have you ever won?
+1438.0,1442.0,Subject,I'm close to 91.
+1442.0,1444.0,Interviewer,So you're almost there?
+1444.0,1462.0,Subject,"Yeah. I mean, I could have been there at least halfway, but I don't like playing in my group. My group is like-- you play against [inaudible] basketball teams and try to develop your character. It's boring."
+1462.0,1464.0,Interviewer,Why?
+1464.0,1471.0,Subject,Because you beat them all the time. It sucks. Yeah.
+1471.0,1482.0,Interviewer,"Okay. So basketball, video games. I mean, anything else?"
+1482.0,1487.0,Subject,That's pretty much it at the moment.
+1487.0,1495.0,Interviewer,"Okay. So on a typical day you play some video games, maybe you hang out with your sister."
+1495.0,1498.0,Subject,If I go see her. I don't live with her.
+1498.0,1500.0,Interviewer,So where is she?
+1500.0,1502.0,Subject,Right now?
+1502.0,1505.0,Interviewer,In the general sense. Where does she live? Is she far from here?
+1505.0,1514.0,Subject,She lives here. She lives a couple blocks away from here.
+1514.0,1515.0,Interviewer,Oh good. [inaudible].
+1515.0,1519.0,Subject,I grew up over here. That's why. I come here to see my friends.
+1519.0,1522.0,Interviewer,So you went to high school here?
+1522.0,1529.75,Subject,No. Yonkers.
+1529.75,1530.0,Interviewer,"Oh, cool. Cool. Did you like it?"
+1530.0,1536.0,Subject,Yeah. My school? Because they had a [inaudible].
+1536.0,1548.0,Interviewer,All right. That sounds like a theme. Okay. And do you keep in touch with people from there?
+1548.0,1550.0,Subject,Sometimes.
+1550.0,1553.0,Interviewer,When do you meet with them?
+1553.0,1555.0,Subject,"I talk to them, see how they're doing."
+1555.0,1559.0,Interviewer,Okay. Anything else?
+1559.0,1562.0,Subject,It depends.
+1562.0,1564.0,Interviewer,On?
+1564.0,1566.0,Subject,"If they're not busy, probably go play some basketball."
+1566.0,1577.0,Interviewer,Okay. And so it seems like basketball's probably pretty central to your life. Do you want to do something with that in the future?
+1577.0,1578.75,Subject,Yes.
+1578.75,1579.0,Interviewer,What?
+1579.0,1581.0,Subject,Maybe coaching.
+1581.0,1584.0,Interviewer,Aha. I see.
+1584.0,1585.0,Subject,Maybe. It depends.
+1585.0,1587.0,Interviewer,Why only maybe?
+1587.0,1596.0,Subject,I don't know. Maybe I want to get back into shape and play college ball. I'm not too sure.
+1596.0,1603.0,Interviewer,That's fun. And what does that require? How do you get there?
+1603.0,1608.0,Subject,Signing back up to college and trying out for the basketball team.
+1608.0,1610.0,Interviewer,Were you in college before?
+1610.0,1611.0,Subject,No.
+1611.0,1614.0,Interviewer,Okay. So is that something you might want to do?
+1614.0,1622.0,Subject,"I mean, I don't really have to necessary go to college. I can go overseas to play basketball."
+1622.0,1626.0,Interviewer,Is that something you're interested in?
+1626.0,1628.0,Subject,Hopefully in a year or two.
+1628.0,1632.0,Interviewer,So is it different over there than here?
+1632.0,1647.0,Subject,"It's like you play against a grown man from a different city-- I mean state, that you're not used to. It depends if they speak your language. Probably not."
+1647.0,1653.0,Interviewer,"So are you on an American team, or--?"
+1653.0,1676.0,Subject,"It depends, I guess. And you go to Spain. I think you can play in France. I'm not too sure. Yeah, you can. It's basically foreign countries and cities and states."
+1676.0,1679.0,Interviewer,Do you have a top pick?
+1679.0,1682.0,Subject,Nope.
+1682.0,1687.0,Interviewer,No? Anywhere?
+1687.0,1691.0,Subject,Maybe Spain or France.
+1691.0,1694.0,Interviewer,Is there any place you would never go?
+1694.0,1697.0,Subject,Lithuania [laughter].
+1697.0,1700.0,Interviewer,Okay. Why not Lithuania?
+1700.0,1704.0,Subject,It's super cold.
+1704.0,1706.0,Interviewer,New York is pretty cold.
+1706.0,1708.0,Subject,Not compared to there.
+1708.0,1710.0,Interviewer,How do you know?
+1710.0,1711.0,Subject,Because I watch basketball.
+1711.0,1715.0,Interviewer,Is there a lot of Lithuanian basketball?
+1715.0,1733.0,Subject,"I guess. Probably heard of them, maybe, the Ball family. LaVar Ball. No? Oh it would probably be on the internet."
+1733.0,1735.0,Interviewer,Okay. [inaudible].
+1735.0,1751.0,Subject,"One of their sons is in the NBA. The other two is called JBA. The bar made a league up. And right now, I think they just played Lithuania. They probably beat them."
+1751.0,1757.0,Interviewer,Okay. So this is the NBA is only American?
+1757.0,1768.0,Subject,No. There's other players that come from different countries to go to the draft and try to get drafted to a team.
+1768.0,1776.0,Interviewer,"Okay. But then when you play Lithuania, does the NBA play Lithuania?"
+1776.0,1786.0,Subject,No. Thye paly teams they get drafted from. It's like 32 or 30 teams in the NBA.
+1786.0,1793.0,Interviewer,Okay. From different cities. And then who plays Lithuania?
+1793.0,1795.0,Subject,Foreign people.
+1795.0,1796.0,Interviewer,All right. So it's like an international?
+1796.0,1798.0,Subject,It's like a Euroleague.
+1798.0,1804.0,Interviewer,Okay. So bars? Bar?
+1804.0,1805.0,Subject,LaVar Ball?
+1805.0,1808.0,Interviewer,Yeah. He's in the foreign?
+1808.0,1809.0,Subject,No. No.
+1809.0,1810.0,Interviewer,No. He's from here?
+1810.0,1811.0,Subject,He's from Los Angeles.
+1811.0,1813.0,Interviewer,Okay. And he's--
+1813.0,1816.0,Subject,He had his sons play at Lithuania before.
+1816.0,1818.0,Interviewer,Why?
+1818.0,1821.0,Subject,So they can try to get drafted to the NBA.
+1821.0,1828.0,Interviewer,"Oh. Okay, so is that something you'd want to do? Do the international circuit and then see if you could--?"
+1828.0,1830.0,Subject,Maybe.
+1830.0,1832.0,Interviewer,Maybe.
+1832.0,1848.0,Subject,"I think it maybe. It's a lot of work. Moving to a different country, learning their language, how to speak to them and playing against a lot of people who could be better than you, get drafted."
+1848.0,1852.0,Interviewer,"Something you love, maybe it won't be that much work?"
+1852.0,1859.0,Subject,"Yeah, I know. We'll see in a couple years."

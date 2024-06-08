@@ -1,0 +1,235 @@
+tmin,tmax,speaker,message
+2.0,6.0,Interviewer,So how have things been going for you lately?
+6.0,9.0,Subject,"Well, it's okay."
+9.0,13.0,Interviewer,Okay. So what is okay like for you?
+13.0,21.0,Subject,"Well, I'm not as depressed as I was or suicidal, so it's okay."
+21.0,37.0,Interviewer,"Yeah, that sounds great. Are you currently doing anything regularly, every day? Maybe going to work or seeing people?"
+37.0,40.0,Subject,I'm going to work.
+40.0,43.0,Interviewer,"Oh, awesome. So could you tell me a little about your work?"
+43.0,51.0,Subject,"Well, I work at Target doing fulfillment. So I pick people's orders."
+51.0,54.0,Interviewer,How has that been? Do you like it?
+54.0,57.0,Subject,No. I hate it.
+57.0,58.0,Interviewer,"Oh, you hate it? Really?"
+58.0,60.0,Subject,Yeah.
+60.0,62.0,Interviewer,What do you hate about it?
+62.0,80.0,Subject,"It's not what I thought it was going to be. You have to pick the orders in a certain amount of time, so like 45 minutes to go around the whole store. And I guess I move really slow."
+80.0,85.0,Interviewer,Whoa. 45 minutes does not sound like that much time.
+85.0,86.0,Subject,It's not.
+86.0,96.0,Interviewer,"Wow. Okay. So you have to-- basically, someone places an order, and then you go get it? Is that the idea?"
+96.0,97.0,Subject,Yeah.
+97.0,99.0,Interviewer,Okay. And--
+99.0,104.0,Subject,"But it's multiple orders, not just for one person. You get multiple orders."
+104.0,119.0,Interviewer,"Oh, wow. Wow. Okay. Oh, wow. That's tough. So how has it made you feel to be so rushed every day with all these time commitments or time pressures?"
+119.0,124.0,Subject,I'm really overwhelmed and stressed.
+124.0,136.0,Interviewer,"Yeah. So is there any other kind of position within Target maybe that you could move to, or is that--?"
+136.0,164.0,Subject,"I think there is, but I'm trying to wait for the 90-day period to be over. I'm coming up on it, but it hasn't passed yet. So I've been there since September 21st, so I have the end of the this month and then I could talk to somebody about moving to a different position."
+164.0,169.0,Interviewer,"Oh, cool. So what is the 90-day period for?"
+169.0,188.0,Subject,I guess a probationary period. So they see how you work and-- I don't know. It's just like a probationary period--
+188.0,189.0,Interviewer,"Oh, yeah. That makes sense."
+189.0,192.0,Subject,--that everyone has to go through.
+192.0,200.0,Interviewer,So what about outside of work? What have you kind of been up to outside of work?
+200.0,207.0,Subject,"Not much. I'm too tired to do anything after work, so yeah."
+207.0,214.0,Interviewer,Have you been able to meet any interesting people through your work?
+214.0,241.0,Subject,"Everyone seems nice. I've met a couple of people. But I don't know, because everyone-- well, at least the team leaders and whatever, they seem kind of shady."
+241.0,247.0,Interviewer,"So what makes you feel that way, that they're shady?"
+247.0,249.0,Subject,They talk about everyone.
+249.0,253.0,Interviewer,Even their employees?
+253.0,254.0,Subject,Yeah.
+254.0,258.0,Interviewer,That doesn't seem great.
+258.0,259.0,Subject,It's not.
+259.0,268.0,Interviewer,"Yeah. Okay. Well, what about-- okay. So is this a full-time job? Sorry. I forgot."
+268.0,270.0,Subject,"Yeah, it's a full-time job."
+270.0,285.0,Interviewer,"Yeah. Oh, okay. So you've met some nice people. Okay. And what about any friends do you have outside of work or from earlier on or anything like that that you've been in contact with?"
+285.0,287.0,Subject,No.
+287.0,301.0,Interviewer,So can you say a little bit more about what has been contributing to you feeling better and feeling less depressed? I would be really interested if you would be willing to share that.
+301.0,309.0,Subject,I think it's the medications that I'm on. I take anxiety medication and depression medication.
+309.0,312.0,Interviewer,"Oh, that's great. So the medicine seems to be working."
+312.0,313.0,Subject,Yeah.
+313.0,323.0,Interviewer,"So in the past, did you try other ones before that maybe weren't as effective?"
+323.0,329.0,Subject,Lexapro wasn't as good.
+329.0,359.0,Interviewer,"Yeah. I mean, from what I've heard, it's all about finding the right one for you, so that's really amazing that you're doing better with that. How about these studies that you've been participating in? Do you feel like that is beneficial in any way, or what has been your experience with kind of participating in studies like these? I don't know if you've done more."
+359.0,369.0,Subject,"This is the first one I've done. It's been really interesting, and I like it. So yeah."
+369.0,383.0,Interviewer,"Yeah. Well, we obviously love having you. It's been really wonderful to get to meet you as well, so. That's good that you're having a good experience. So what other parts of the study have you done so far?"
+383.0,390.0,Subject,Only the initial interview and the computer test.
+390.0,397.0,Interviewer,"Oh, so yeah, so the stuff that you did with me-- so you've seen [Jontu?], right?"
+397.0,398.0,Subject,Yeah.
+398.0,404.0,Interviewer,Okay. And that was just one time?
+404.0,407.0,Subject,"No, I saw her twice."
+407.0,420.0,Interviewer,"Oh, okay. So you probably did all-- okay, cool. Cool. So there's not too much left. But if you're interested, we can always refer you to other studies when you're done with this one if you want to keep going, if you're enjoying it."
+420.0,422.0,Subject,Okay.
+422.0,434.0,Interviewer,So what are some things that you've been kind of thinking about or that have been on your mind that you would be willing to share just for the sake of this conversation?
+434.0,442.0,Subject,"Well, there's this guy at work. He's really cute, and he's been on my mind a lot."
+442.0,445.0,Interviewer,What's he like?
+445.0,457.0,Subject,"He's really nice. I just met him, so I don't know too much about him yet. But he seems really nice, and he's really cute."
+457.0,470.0,Interviewer,That's awesome. And have you been thinking about any good next steps that you could maybe do to speak with him or whatever?
+470.0,498.0,Subject,"I've been trying to come up with opportunities to talk to him more. And so if I see him, I'll ask him what-- because he does the same thing that I do, looking for orders. So I'll ask him, ""What are you looking for?"" The other day, we were both looking for a Taylor Swift vinyl, so he helped me find it."
+498.0,506.0,Interviewer,That's so nice. I feel like that's also so nice to just have that kind of excitement [laughter] at work.
+506.0,527.0,Subject,"Yeah. But I don't know if I should date someone that I work with. I don't know if I'm even ready to start dating again. But he's been on my mind a lot, so."
+527.0,533.0,Interviewer,"Well, regardless, it's nice at least that you guys are helping each other out in this job that seems kind of stressful."
+533.0,535.0,Subject,Yeah.
+535.0,544.0,Interviewer,"So ideally, what would you like to come out of this, in a perfect world, if all the stars align?"
+544.0,547.0,Subject,A relationship.
+547.0,562.0,Interviewer,"Cool. And how would you envision that relationship? What would the dynamic be? I don't know. These are things that I like to think about, but I don't know if you would be willing to share."
+562.0,576.0,Subject,"I'm not sure really. I haven't thought that far into it, but I would like a relationship to come out of it, even if it's just a friendship."
+576.0,582.0,Interviewer,Yeah. Have you had romantic relationships in the past?
+582.0,583.0,Subject,Yeah.
+583.0,588.0,Interviewer,And how were those? How did they go?
+588.0,590.0,Subject,"They were kind of toxic, actually."
+590.0,591.0,Interviewer,"Oh, really?"
+591.0,593.0,Subject,Yeah.
+593.0,598.0,Interviewer,So what makes you say that? What was toxic about them?
+598.0,604.0,Subject,There was a lot of cheating and lying.
+604.0,614.0,Interviewer,That's tough. So how did you kind of realize that or deal with that as it came up?
+614.0,633.0,Subject,"Well, at first, I was in denial, so the relationship went on for longer than it should have. But eventually, I came to realize that nothing was going to come out of it, so might as well just leave this person alone."
+633.0,638.0,Interviewer,Was that a tough decision for you to make at the time?
+638.0,643.0,Subject,"Yeah, because I was so in love."
+643.0,653.0,Interviewer,Yeah. So what was the time frame of that relationship? Was it a long-term thing?
+653.0,654.0,Subject,"Yeah, it was eight years."
+654.0,656.0,Interviewer,Wow.
+656.0,659.0,Subject,I was in denial for a long time.
+659.0,669.0,Interviewer,"Yeah. I mean, that makes sense, honestly. That happens so much because it's so challenging to be objective about a situation that you're really invested in, I think."
+669.0,690.0,Subject,Yeah. Because I didn't want to start all over with somebody else. But I realized that it's better to start something new with someone who's not going to lie to you and cheat on you.
+690.0,694.75,Interviewer,"Yeah. That sounds like it was a pretty brave decision, honestly."
+694.75,695.0,Subject,Yeah.
+695.0,699.0,Interviewer,How do you feel about that decision now?
+699.0,702.0,Subject,I'm happy about it. I'm over it now.
+702.0,741.0,Interviewer,"Yeah. That's awesome. Yeah. I think sometimes looking back, it's easier to see how things were or what decisions you made and that you were proud of as compared to in the moment when it might have been more difficult. Okay. So besides that relationship that you had that was more romantic, have you had any friendships that you feel like were really important over the course of your life or that got you through a certain tough time or anything like that?"
+741.0,772.0,Subject,"Well, my first friend ever, my first friend was when I was four. I was in kindergarten, and that was the first friend that I ever made. So I tried to hold onto that friendship for a really long time, and I was in denial about that. I'm starting to realize that I'm delusional about all my relationships because that one friendship didn't end well."
+772.0,775.0,Interviewer,Why do you say that? What happened with it?
+775.0,815.0,Subject,"Well, he was a guy, so people say that girls and guys can't really be friends without someone catching feelings. And he had stronger feelings for me than I had for him. And I had liked one of his friends, and I thought he was really cute. And he didn't want me to talk to his friend, but I can't help who I like. So he got really mad at me and didn't want to talk to me anymore."
+815.0,831.0,Interviewer,"That's not nice. So how did that-- yeah. So was that it for your friendship? Even if you didn't talk with him, was that-- or you did talk with him, and then that was the end of it?"
+831.0,840.0,Subject,"He didn't want to talk about the situation, so we just stopped talking to each other. He kind of yelled at me, actually."
+840.0,850.0,Interviewer,Wow. And how long had you been friends before that took place?
+850.0,854.0,Subject,From kindergarten all the way up till seventh grade.
+854.0,862.0,Interviewer,"Wow. So basically, in seventh grade this happened."
+862.0,868.0,Subject,"Actually, it happened in fifth grade, but he didn't want to talk about it for that long, so--"
+868.0,869.0,Interviewer,Oh wow.
+869.0,876.0,Subject,--I guess he held it in. He was holding it in for two years and then just exploded.
+876.0,880.0,Interviewer,"Wow. That's a long time to be holding something in, right?"
+880.0,882.0,Subject,Yeah.
+882.0,893.0,Interviewer,Wow. Do you have any idea where he ended up or what happened to him?
+893.0,898.0,Subject,I think he has a girlfriend now and a baby.
+898.0,936.0,Interviewer,"Oh wow. I feel like it's so hard-- I mean, first of all, that was his bad, obviously, big time. But it is so hard to think about how people were all-- how the brains were working at 12, 13 years old too. Yeah, I wonder why he decided at that time to hold it in for two years. But maybe that's just something that a teenager would've done. What do you think?"
+936.0,958.0,Subject,"Yeah. I was sad that I lost my friend, but I guess you got to move on. I was never really able to make any really strong friendships after that. That was the only one."
+958.0,962.0,Interviewer,Do you feel like that impacted your ability to make new friendships?
+962.0,964.0,Subject,Yeah.
+964.0,973.0,Interviewer,How do you feel like that kind of contributed to your future ability to make friendships?
+973.0,995.0,Subject,"I don't really trust people now. I'm skeptical about their intentions. Or I don't want to do anything to offend them, so I hold back a lot."
+995.0,1006.0,Interviewer,"That makes sense because basically, you were just doing your normal thing, being who you were, and then suddenly that offended him."
+1006.0,1007.0,Subject,Yeah.
+1007.0,1026.0,Interviewer,"Oh. That's so tough. I feel like there would be people out there who wouldn't be like that, but I also understand that to find those people you might encounter the same thing, which might be painful."
+1026.0,1027.0,Subject,Yeah.
+1027.0,1045.0,Interviewer,Do you feel like it would be worth finding a few more toxic friendships in order to find a good friendship? Or do you feel like it's just not worth that to you?
+1045.0,1054.0,Subject,"I think I have found a few more toxic friendships. They weren't toxic, but they weren't good friendships."
+1054.0,1071.0,Interviewer,"And did you feel like that-- if you needed to find-- basically, do you feel like that effort to find hopefully a true friendship would be worth it, or do you feel like at this point it's not really worth it anymore?"
+1071.0,1083.0,Subject,"I think it's worth it. I really want good friends, but it's hard, especially to make friends as an adult."
+1083.0,1101.0,Interviewer,Yeah. What spaces do you feel like could be potential forums for creating a friend in adulthood?
+1101.0,1122.0,Subject,"I'm not sure. All I do is go to work, so that's the only place I can find friends. But I've been trying to find stuff to do that I would like to do so I could find people that have the same interests as me."
+1122.0,1128.0,Interviewer,Yeah. What are some of your hobbies or things that you like to do?
+1128.0,1138.0,Subject,Play video games. I want to get into candle making and perfume making.
+1138.0,1145.0,Interviewer,That's so cool. Wow. That's so cool. Have you done that before?
+1145.0,1160.0,Subject,"No. I've never done it before. But I do have a candle making kit. I've just never done it because my sister wants to do it with me, but I wanted to do it by myself. So I have to wait for her."
+1160.0,1164.0,Interviewer,So sorry. Are you waiting for her or are you going to do it by yourself?
+1164.0,1169.0,Subject,Waiting for her because she's going to be mad if I do it by myself.
+1169.0,1185.0,Interviewer,"Maybe there are two candles, and maybe you can just say you're doing a practice one or something. And you should just do one and say you're just practicing so that hers would be better."
+1185.0,1187.0,Subject,Yeah. [laughter]
+1187.0,1209.0,Interviewer,"Anyway, you can decide what to do with that. But just an option. Or you could get another candle making kit, do it, and then do that one with her. Or you could maybe give her a time limit, like if we don't do it by Friday, then I'll do it. Maybe that's more fair. What do you think?"
+1209.0,1224.0,Subject,"I think the time limit would work because she wants to do it with me, her, and my niece. I wanted to do it by myself, and now she's adding people to do it too."
+1224.0,1229.0,Interviewer,And so do you have to wait for everyone to be available then?
+1229.0,1232.0,Subject,Yeah.
+1232.0,1238.0,Interviewer,"So when, ideally, would you want to do it?"
+1238.0,1250.0,Subject,I'd say before the year is over. I might see if she wants to do it Friday after my appointment.
+1250.0,1253.0,Interviewer,Yeah. That sounds good. I like that idea. I think [crosstalk]--
+1253.0,1257.0,Subject,Because I've been waiting for the whole year.
+1257.0,1258.0,Interviewer,The whole year?
+1258.0,1260.0,Subject,Yeah.
+1260.0,1278.0,Interviewer,"Oh my gosh. You have to make a deadline. I feel like it will be so fun to do it with or without her. I think it would be fun either way, but you should just do it. So if she wants to do it, then she should join."
+1278.0,1286.0,Subject,"I don't think it's going to be fun to do it with her. She's really anal about everything, so it's really annoying."
+1286.0,1294.0,Interviewer,Yeah. Maybe you can have separate ones and she can focus on hers and you can focus on yours.
+1294.0,1295.0,Subject,Yeah.
+1295.0,1300.0,Interviewer,"I wonder how the kit-- do you know if there are multiple within the same kit, or is it only one?"
+1300.0,1308.75,Subject,"I didn't really look inside it, but I think there's multiple-- I think there's like five jars."
+1308.75,1309.0,Interviewer,"Oh, okay."
+1309.0,1312.0,Subject,Or six jars.
+1312.0,1319.0,Interviewer,"Yeah. So okay, candle making. Oh, perfume making. Have you done that before?"
+1319.0,1323.0,Subject,"No, but I'm really interested to learn how to make my own perfume."
+1323.0,1324.0,Interviewer,Yeah. Do you have a--?
+1324.0,1350.0,Subject,"I've been looking on Eventbrite, but all the times seem to be while I'm at work, like at 1:00 or something. And I don't get off of work until 3:00. So yeah, I got to find one where I'll be available to do."
+1350.0,1361.0,Interviewer,And what are the scents that people incorporate - I don't even know - into perfumes? Do you have any idea?
+1361.0,1368.0,Subject,"Woody or fruity, sometimes sweet-making scents."
+1368.0,1382.0,Interviewer,That's so cool. And so what other kind of hobbies do you have or are you maybe interested in trying besides video games and perfume making and candle making?
+1382.0,1395.0,Subject,Coloring. I like to do color by number to de-stress.
+1395.0,1398.0,Interviewer,Those are fun. Have you done any recently?
+1398.0,1408.0,Subject,Not recently. I've just been too tired. I've been playing games and that's it.
+1408.0,1410.0,Interviewer,Yeah. Video games?
+1410.0,1411.0,Subject,Yeah.
+1411.0,1415.0,Interviewer,Which video games do you play?
+1415.0,1440.0,Subject,"I have the Nintendo Switch, so whatever's on there, I have. I've been playing this game called-- what is it called? Dragon Quest and-- what do you call it? I forget the name of the other one."
+1440.0,1447.0,Interviewer,Can you just describe the games a little? Sorry. I don't know too much about it.
+1447.0,1451.0,Subject,They're role-playing games. I like role-playing games.
+1451.0,1458.0,Interviewer,"Oh, cool. So what does that mean? Sorry. I don't know too much about video games."
+1458.0,1464.0,Subject,"You play as a certain character, and you go through the adventure with them."
+1464.0,1474.0,Interviewer,"Oh, nice. So do you have to kill people, or do you just find things and go on--?"
+1474.0,1477.0,Subject,You have to fight monsters and stuff.
+1477.0,1490.0,Interviewer,"Oh. Nice. Wow. Cool. Okay. So video games, perfume make-- it sounds like you also have a lot of artsy [crosstalk]--"
+1490.0,1492.0,Subject,Yeah.
+1492.0,1496.0,Interviewer,"Right? I mean, those are pretty creative hobbies."
+1496.0,1502.0,Subject,I like to create stuff because then it's my own.
+1502.0,1509.0,Interviewer,Yeah. And have you tried any other types of art that you've enjoyed over the years?
+1509.0,1520.0,Subject,I went to paint and sip once. That was fun. I want to do more paint and sips.
+1520.0,1522.0,Interviewer,You want to do more [crosstalk]? Oh yeah.
+1522.0,1523.0,Subject,Yeah.
+1523.0,1527.0,Interviewer,And what did you guys make that day?
+1527.0,1532.0,Subject,Some type of flower. I think it was a hydrangea. Is that how you say it?
+1532.0,1539.0,Interviewer,"Yeah. Wow. That's so cool. Was that in your area, or was that-- I don't know--"
+1539.0,1540.0,Subject,It was in Harlem.
+1540.0,1565.0,Interviewer,"Oh, fun. Yeah, I've only been to two. Okay. Painting, the coloring, candles, perfume. Any other artsy things that you've enjoyed?"
+1565.0,1571.0,Subject,"No, I think that's it."
+1571.0,1587.0,Interviewer,"That's awesome. I wonder if one of those hobbies could become an activity where you could also meet other adults, like even a paint and pour or whatever."
+1587.0,1592.0,Subject,Yeah.
+1592.0,1596.0,Interviewer,I don't know. Would that be something that you might be interested in?
+1596.0,1605.0,Subject,"Yeah. I meet people there, but it's just hard for me to make friends."
+1605.0,1609.0,Interviewer,Yep. Maybe there's more follow-up steps.
+1609.0,1620.0,Subject,"I don't know the steps though. That's the thing. I don't want to seem annoying or like I'm bothering anyone, so."
+1620.0,1647.0,Interviewer,"I don't think it would seem annoying. I think sometimes it just takes a bit of-- you have to initiate it, which is-- not everyone's that comfortable with that. What about bars or restaurants or, I don't know, just places where people kind of congregate and chit-chat?"
+1647.0,1655.0,Subject,"I don't know. I feel awkward going to bars and stuff. I don't know why, but it's just awkward for me."
+1655.0,1666.0,Interviewer,"What if you went with your sister? Maybe sometimes having a person with you. I don't know what you would think about that, but sometimes it's--"
+1666.0,1684.0,Subject,"Yeah. I go to clubs and stuff with my sisters. Because they're like me too, so they don't really meet people either."
+1684.0,1690.0,Interviewer,And so how is the experience usually when you guys go to a club?
+1690.0,1697.0,Subject,"It's fun. We dance, we drink."
+1697.0,1704.0,Interviewer,"I feel like if you go to the same one more than once, you could maybe meet some regulars or something."
+1704.0,1710.0,Subject,We go to this one called Salsa Con Fuego in the Bronx.
+1710.0,1714.0,Interviewer,Do they do salsa dancing there?
+1714.0,1722.0,Subject,"I don't know. They do comedy on Tuesdays, and they have people come perform on Thursdays. I don't know if they do salsa."
+1722.0,1723.0,Interviewer,That's so cool.
+1723.0,1725.0,Subject,They might.
+1725.0,1764.0,Interviewer,"Oh, that's so cool. So I feel like if you just introduce yourself to somebody there who maybe you've seen multiple times, that you could then be in a situation where you exchange numbers and follow up. And then you could get coffee or something. I don't know if you drink coffee, but whatever, tea, hot chocolate. And just chit-chat a little, and then have it be very low pressure. And maybe that could be a place where you could kind of start. Because I think a lot of people go there open-minded to meet people."
+1764.0,1767.0,Subject,Yeah. They do.
+1767.0,1777.0,Interviewer,I don't know. Just a thought. [laughter] So what have been some of the shows that you've enjoyed the most there?
+1777.0,1800.0,Subject,"Well, I went to go see Chingy and I went to go see [inaudible]. They're all old rappers. And I saw someone else. I forgot who it was though."
+1800.0,1807.0,Interviewer,"That's so fun. Is rap your favorite type of music, or do you have other favorite types of music?"
+1807.0,1813.0,Subject,I like all types of music. I went to a Phil Collins concert Monday.
+1813.0,1815.0,Interviewer,How was it?
+1815.0,1817.0,Subject,It was really good.
+1817.0,1818.0,Interviewer,That's so [crosstalk].
+1818.0,1822.0,Subject,It was a Genesis concert. But I want to go to a concert just for him.
+1822.0,1828.0,Interviewer,Yeah. He's so good vibes.
+1828.0,1830.0,Subject,Yeah.
+1830.0,1835.0,Interviewer,"That's awesome. So did you go with someone, or did you go--?"
+1835.0,1861.0,Subject,"I went by myself.  Me, my sisters, and my nephew, we all like Phil Collins. I was going to ask one of them to go with me, but my sister lives upstate, and my nephew lives in DC, so I don't want to ask. And my other sister, I didn't know that she likes Phil Collins, so I didn't ask her if she wanted to go either."
+1861.0,1864.0,Interviewer,"Oh, so you have two sisters."
+1864.0,1866.0,Subject,"No, I have three."
+1866.0,1873.0,Interviewer,"Oh, three. Oh my gosh. That's so awesome. Wait, so which is the one that you're waiting on for the candles?"
+1873.0,1879.0,Subject,She's my second-oldest sister.
+1879.0,1884.75,Interviewer,"Oh. So wait, so second-oldest. So what is your order? Where are you in the order?"
+1884.75,1884.85,Subject,I'm the youngest.
+1884.85,1885.0,Interviewer,Oh my gosh.
+1885.0,1886.0,Subject,The baby.
+1886.0,1895.0,Interviewer,The baby. Aw. Okay. So you have three older sisters. Wow. A lot of girls in your house.
+1895.0,1898.0,Subject,Yeah.
+1898.0,1907.0,Interviewer,"That's fun. So okay, is she the one who lives with you, or is she the one that's upstate? Or neither?"
+1907.0,1910.0,Subject,No. Neither.
+1910.0,1921.0,Interviewer,"Okay. So that makes it-- because I thought that you were just waiting on the one who you live with to do the candle wax, and I was like, ""Just bring her in and do it."" [laughter] But clearly, it's [crosstalk]."
+1921.0,1936.0,Subject,"No. My second-oldest sister, she doesn't live that far from where I live, so yeah. She lives 20 minutes away."
+1936.0,1946.0,Interviewer,"Oh, okay. That's not bad. Well, definitely let me know if you end up doing those candles and how they turn out. I'm so interested. I think that sounds so fun."
+1946.0,1948.0,Subject,Okay.

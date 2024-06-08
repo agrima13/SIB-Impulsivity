@@ -1,0 +1,227 @@
+tmin,tmax,speaker,message
+1.0,5.0,Interviewer,Okay. So how have things been going for you lately?
+5.0,9.0,Subject,They've been good. Everything's been good.
+9.0,13.0,Interviewer,Okay. So what does good look like for you?
+13.0,17.0,Subject,Not wanting to die.
+17.0,25.0,Interviewer,"That's important. That's really, really good. So what's been contributing to you having such a good kind of period recently?"
+25.0,30.0,Subject,I've been getting out of the house a lot more and hanging out with my friends.
+30.0,41.0,Interviewer,Yay. That's wonderful. And how has that been? What has been contributing to you feeling that you can get out of the house and start seeing people more?
+41.0,47.0,Subject,I'm just able to do it because I'm putting my mind to it now.
+47.0,55.0,Interviewer,"Wow, nice. And what is it like for you when you go outside more and you start seeing your friends more?"
+55.0,62.0,Subject,It's hard because I have intrusive thoughts. But it's really fun.
+62.0,74.0,Interviewer,Yay. I'm glad. So what is it about do you think going outside and being with your friends that really makes it a vulnerable moment for those intrusive thoughts?
+74.0,84.0,Subject,"Well, my intrusive thoughts involve throwing myself into the train tracks or throwing myself on the street. So it's hard to get around."
+84.0,93.0,Interviewer,And so what are some tools that you've developed to kind of handle those when you're in those situations?
+93.0,97.0,Subject,I'm going on a different medicine soon.
+97.0,103.0,Interviewer,Okay. And so do you feel-- how do you feel about your current medication? Are you on medication right now?
+103.0,104.0,Subject,Yes.
+104.0,106.0,Interviewer,Okay. And how do you feel about it?
+106.0,107.0,Subject,I like it.
+107.0,111.0,Interviewer,Okay. So is this going to be an additional medication or a switch up?
+111.0,115.0,Subject,They're tapering me off of Cymbalta and putting me on something else.
+115.0,119.0,Interviewer,I see. Okay. And so how do you feel about the change?
+119.0,121.0,Subject,Helpful?
+121.0,126.75,Interviewer,"Yeah. So you said that you do like the one that you're currently on, right?"
+126.75,127.0,Subject,Yes.
+127.0,128.0,Interviewer,So--?
+128.0,129.0,Subject,I'm on multiple.
+129.0,134.0,Interviewer,"Oh, you're on multiple. Okay. So the one that they're tapering you off of, is that the one that you like?"
+134.0,135.0,Subject,No.
+135.0,140.0,Interviewer,"I see. Okay, so the one that you're hopeful about is the one that they're replacing, the one that you maybe didn't like as much."
+140.0,141.0,Subject,"Yes,"
+141.0,150.0,Interviewer,I see. Okay. And so what is it about this other medication that maybe your psychiatrist thought would be better for the situation?
+150.0,151.0,Subject,It helps with intrusive thoughts.
+151.0,160.0,Interviewer,"That's great. Oh, that's so exciting. And so what are some activities that you've been doing with your friends?"
+160.0,163.0,Subject,I've been going to see movies; I've been going out to eat.
+163.0,170.0,Interviewer,"Nice. Oh, my gosh. So have you seen any movies recently?"
+170.0,172.0,Subject,Yeah. I saw the Menu.
+172.0,178.0,Interviewer,"Oh, I've heard about that one. It was only out for a few days, right?"
+178.0,180.0,Subject,"I don't know. It was so good, though."
+180.0,186.0,Interviewer,"I heard it was really good. What was it about, again?"
+186.0,196.0,Subject,It was about a bunch of rich people who go to a restaurant. And the restaurant has lots of twists and turns and surprises for them. I don't want to spoil anything.
+196.0,203.0,Interviewer,"Okay. Okay. Wow, that sounds good. It was it kind of more thriller or comedy or--?"
+203.0,204.0,Subject,It was more thriller.
+204.0,223.0,Interviewer,"Thriller. Okay. Sounds really good. I don't know why. But I think they did remove it out of the theaters like very quickly. I hope that they put it in streaming or something. Oh, any other good movies?"
+223.0,236.0,Subject,I definitely just saw one that I liked. I forgot what it was called. I just saw Blade Runner. It's old. But--
+236.0,253.0,Interviewer,"Oh, Blade Runner? Yeah. Blade Runner is part of that series, right? Is it part of the-- no, I'm forgetting the name. I thought it was one in like a series of maybe two or three."
+253.0,254.0,Subject,There are two.
+254.0,258.75,Interviewer,"Oh, two. Have you seen the other one?"
+258.75,259.0,Subject,No.
+259.0,265.0,Interviewer,"No? Okay. Yeah, I don't think I've seen those, either. They have books of those, right?"
+265.0,267.0,Subject,I think so. I think it was a comic book.
+267.0,278.0,Interviewer,Interesting. Cool. And how about the restaurants? Have you discovered any new restaurants or what has the--?
+278.0,281.0,Subject,I went to the Mermaid Oyster Bar the other day. It was really good.
+281.0,284.0,Interviewer,Where is that?
+284.0,289.0,Subject,It's between Bleecker and-- it's near Houston.
+289.0,308.0,Interviewer,"Oh, nice. That's really fun area. And so how have your friends maybe been supporting you through your experiences that you've been having or making your life better? What's your relationship with your friends at this point?"
+308.0,312.0,Subject,They get my mind off of bad things.
+312.0,319.0,Interviewer,"Yeah, that's so great. And where are these friends-- where did you meet these people?"
+319.0,322.0,Subject,In this program called Adaptations.
+322.0,325.0,Interviewer,"Oh, interesting. What is that program? Sorry, I'm not familiar with it."
+325.0,332.75,Subject,"It's for neurodivergent people, so a friendship making group."
+332.75,333.0,Interviewer,"Oh, wow."
+333.0,340.0,Subject,There are different events and stuff that it has.
+340.0,346.0,Interviewer,That's really cool. So how did you end up hearing about that group?
+346.0,363.0,Subject,"I was looking for things to do in New York City, like classes. But this program kind of was one of them. And I went to three of the things and said I liked it. So I kept going."
+363.0,367.0,Interviewer,Nice. What were the first activities that you had gone to try it out?
+367.0,378.0,Subject,"A dine-out, anime club. And I forgot the third."
+378.0,381.0,Interviewer,And was that recent that you had tried it out? Or now? Have you been in it?
+381.0,383.0,Subject,"Oh, maybe six months ago."
+383.0,394.0,Interviewer,"Oh, great. So you've kind of been in it for a while now. How does it work if you're in it? Are you just automatically a member? Or do you have to--?"
+394.0,395.0,Subject,"Yeah, you're automatically a member."
+395.0,400.0,Interviewer,Okay. And so you don't have to do any regular activities or--
+400.0,401.0,Subject,No.
+401.0,417.0,Interviewer,"Okay, interesting. And through this program, have you done any new activities, besides the ones that you just mentioned for the initial--?"
+417.0,420.0,Subject,I saw Hadestown with them.
+420.0,421.0,Interviewer,How was it?
+421.0,422.0,Subject,It was amazing.
+422.0,426.75,Interviewer,"Oh, my gosh. That must have been so fun."
+426.75,427.0,Subject,Yeah.
+427.0,449.0,Interviewer,"Oh, that's so fun. I want to see that too. Was it in one of those smaller theaters on Broadway? Or was it in one of the larger ones? Do you know?"
+449.0,452.0,Subject,"I don't know. I haven't been to many Broadway shows, so."
+452.0,466.0,Interviewer,"I haven't either, but I only went to like one. And it was this really nice, small theater. And I feel like every seat was a good seat. You could just see so well. Did you feel like you had a good view from wherever you were?"
+466.0,475.0,Subject,The first time I saw it? Yes. The second time I saw it was with my dad. And it was kind of-- it was okay. It was just farther away.
+475.0,480.0,Interviewer,And do you see your parents often? How is your--?
+480.0,481.0,Subject,I live with them.
+481.0,487.0,Interviewer,"Oh, you live with them? Okay. Nice. And how is your relationship with them now?"
+487.0,488.0,Subject,It's really good.
+488.0,494.0,Interviewer,"Yay. That's wonderful. And what about it feels like a really good, strong relationship to you?"
+494.0,501.0,Subject,I feel like I can tell them anything. It feels like they're always supportive.
+501.0,519.0,Interviewer,"Oh, that's wonderful. And what about their demeanor or-- what is it basically about how they have been supportive of you that makes you really feel comfortable with telling them everything?"
+519.0,532.0,Subject,I know that they only want what's best for me. I know sometimes it's hard to hear. But my mom's really tries hard for me. I know that.
+532.0,535.0,Interviewer,Yeah. That's so nice.
+535.0,544.0,Subject,"And my dad is just trying to be funny all the time, which he's not, but it's nice that he tries."
+544.0,554.0,Interviewer,"That is really nice. And do you feel that-- first, do you have any other siblings? Sorry, I didn't ask."
+554.0,556.0,Subject,"Yeah, I have a sister."
+556.0,558.0,Interviewer,"Oh, cool. And does she live with you?"
+558.0,560.0,Subject,"No, she lives in Indonesia."
+560.0,565.0,Interviewer,"Oh, my gosh. So you're not close at all?"
+565.0,567.0,Subject,"She doesn't live close, but we are close."
+567.0,575.0,Interviewer,"Yeah. No, sorry. I meant geographically not close. Yeah. So do you speak with her regularly?"
+575.0,576.0,Subject,Yeah.
+576.0,582.0,Interviewer,"Oh, that's great. And how did she end up in Indonesia?"
+582.0,588.0,Subject,"So she married a Japanese man, moved to Japan. His work took him to Indonesia. So she went with him."
+588.0,597.0,Interviewer,"Oh, wow. So how long has she been married to her husband?"
+597.0,600.0,Subject,Maybe three or four years.
+600.0,605.0,Interviewer,"Okay, so she's, I'm assuming, been in Asia then for a while?"
+605.0,606.0,Subject,"Yes,"
+606.0,612.0,Interviewer,"I see. Okay. Oh, wow. What is the age gap between you guys?"
+612.0,613.0,Subject,Three and a half years.
+613.0,618.0,Interviewer,"Okay, so you guys were pretty close in age your whole life, then?"
+618.0,619.0,Subject,Yeah.
+619.0,625.0,Interviewer,"Nice. So yeah, can you tell me a little bit about what your sister's like in general?"
+625.0,640.0,Subject,"She's really depressed now, but she's doing very happy and fun. She's really smart. She's so smart. She's a fucking genius."
+640.0,648.0,Interviewer,That's awesome. And in what ways Is she super smart? How did that manifest?
+648.0,660.0,Subject,She learns a bunch of languages. She's so self-sufficient. She can figure things out that I wouldn't be able to ever.
+660.0,663.0,Interviewer,And what languages does she speak now?
+663.0,666.0,Subject,"Indonesian, Japanese, English."
+666.0,675.0,Interviewer,Wow. So quickly. That's cool. Have you had any interest in learning any other languages as well?
+675.0,679.0,Subject,"I knew a little bit of German at one point, but I lost it all."
+679.0,682.0,Interviewer,Cool. And what inspired the German?
+682.0,683.0,Subject,I liked a lot of German bands.
+683.0,686.0,Interviewer,"Oh, cool."
+686.0,693.0,Subject,"My fiancée. She speaks German. Japanese. Esperanto, And English."
+693.0,696.0,Interviewer,"Oh, my goodness. That's amazing. So maybe you could learn Japanese from your fiancée."
+696.0,701.0,Subject,Yeah. [crosstalk]. Yeah. Maybe.
+701.0,705.0,Interviewer,You could communicate with your sister in Japanese.
+705.0,706.0,Subject,And her husband.
+706.0,710.0,Interviewer,And her husband. Exactly. Does her husband speak other languages as well?
+710.0,711.0,Subject,English.
+711.0,716.0,Interviewer,"English. Okay. And did they meet-- sorry, did you say that they met in Japan?"
+716.0,726.0,Subject,"No. They met at her college. He went to a different college, but they still met at college. And they've been together for 10 years."
+726.0,737.75,Interviewer,"Oh, wow. 10 years? Oh, my gosh, that's amazing. And oh, you said that she was depressed right now though. That's unfortunate. What's what's going on in her life? Do you know? That's--"
+737.75,738.0,Subject,She really doesn't like Indonesia.
+738.0,749.0,Interviewer,That's tough. Is there any way that he can maybe move his work back to Japan or elsewhere?
+749.0,763.0,Subject,Not right now. But they were thinking of maybe doing something like hiring a consultant so they can move
+763.0,767.0,Interviewer,And how would a consultant to help them move?
+767.0,780.0,Subject,"They can do all the work that my sister has to do. They could hire someone to do the work that my sister has to do while she's physically there, and she can pop in once a month."
+780.0,784.0,Interviewer,"Oh, wait. So is your sister also working in the company with her husband?"
+784.0,785.0,Subject,Yes.
+785.0,794.0,Interviewer,"Oh, okay. And is there any chance that your sister's husband would want to leave that company as well? Or move to a different country?"
+794.0,798.0,Subject,It's really traditional. He has to take after his father's company.
+798.0,799.0,Interviewer,Oh.
+799.0,800.0,Subject,Yeah.
+800.0,803.0,Interviewer,So this is a family business or something?
+803.0,804.0,Subject,Yeah.
+804.0,816.0,Interviewer,"Oh, cool. I mean, that aspect at least is pretty cool. Is this a small business? Or is this something that they've kind of scaled up?"
+816.0,818.0,Subject,I'm not sure.
+818.0,822.0,Interviewer,Sure. Yeah. Do you know what it is that the-- what they do?
+822.0,823.0,Subject,They paint cars and motorcycles.
+823.0,844.0,Interviewer,"Cool. Nice. And yeah, I don't know a lot about what's involved in that. But I'm sure there's a lot of work involved in getting all the correct materials and the work and everything. So what is the portion that your sister does that's more of a consultant role?"
+844.0,848.0,Subject,I don't know.
+848.0,851.0,Interviewer,No. It's okay. Sorry. I'm grilling you on your sister's job.
+851.0,854.0,Subject,"She does some management, though."
+854.0,861.0,Interviewer,"Oh, nice. So do you know what it is about Indonesia that's not been that great for her?"
+861.0,863.0,Subject,It's a really strict country.
+863.0,864.0,Interviewer,"Oh, really?"
+864.0,877.0,Subject,"Yeah. And she doesn't have a lot of friends. She's making more friends because she's in an expat group now. But before, she didn't have any friends."
+877.0,885.0,Interviewer,And is her Indonesian strong enough that she can speak fluently with the locals?
+885.0,890.0,Subject,"No. Her Japanese is, but not her Indonesian."
+890.0,915.0,Interviewer,"I'm sure she'll get there, though, with her intelligence and her love of languages. I'm sure she'll get there. Well, that's really great that you guys have stayed in touch the way that you have. So you said that your sister went to a different college than you. Is that right?"
+915.0,919.0,Subject,I didn't go to college. She went to a different college than her husband.
+919.0,926.0,Interviewer,"Oh, than her husband. I see. I see. I see. Okay. Is college something that you've ever been interested in? Or not really?"
+926.0,928.0,Subject,Yeah. But I don't think it's right for me.
+928.0,936.0,Interviewer,"It's not right for you. Yeah, it's not for everybody. What are some of your next steps that you have in mind for yourself?"
+936.0,938.0,Subject,Moving to New Zealand.
+938.0,943.0,Interviewer,"Oh, my gosh. How do your parents feel about that?"
+943.0,945.0,Subject,I don't know. I haven't really asked them.
+945.0,950.0,Interviewer,"Oh, you haven't asked them? Okay. Do you think they could come?"
+950.0,954.0,Subject,"Well, they're definitely not moving there. But--"
+954.0,957.0,Interviewer,That would be so cool. So what's the New Zealand for you?
+957.0,959.0,Subject,My fiancée.
+959.0,962.0,Interviewer,"Oh, my gosh. Mo way. Your fiancée lives in New Zealand?"
+962.0,963.0,Subject,Yeah.
+963.0,972.0,Interviewer,"Oh, you guys are so far away right now. Oh, no. How long is the time difference?"
+972.0,975.0,Subject,16 or 18 hours. I forgot.
+975.0,981.0,Interviewer,And how has it been dealing with the distance and the time difference and everything?
+981.0,984.0,Subject,It's been okay. We talk every day.
+984.0,995.0,Interviewer,That's wonderful. And what are some kind of tools or tricks that you guys have discovered that work well for you in terms of maintaining that communication?
+995.0,998.0,Subject,We set up times.
+998.0,1009.0,Interviewer,Yeah. And when is it typically in the day for you versus when typically in the day for her?
+1009.0,1016.0,Subject,5:00 to 7:00 for me. Hers is usually 12:00 to 2:00.
+1016.0,1017.0,Interviewer,In the morning? Like 12:00 AM?
+1017.0,1018.0,Subject,Yeah.
+1018.0,1024.0,Interviewer,"Oh, wow. And so what is your fiancée up to in New Zealand?"
+1024.0,1027.0,Subject,She's a coder.
+1027.0,1033.0,Interviewer,"Oh, wow. And is she working there full-time?"
+1033.0,1036.0,Subject,She lives there. She's born there.
+1036.0,1041.0,Interviewer,"Oh, she's born there. Okay. How did you end up meeting your fiancée?"
+1041.0,1044.0,Subject,Over Twitter. And then I went to New Zealand.
+1044.0,1047.0,Interviewer,"Oh, you did? So you've already been there once?"
+1047.0,1048.0,Subject,Yeah.
+1048.0,1050.0,Interviewer,How did you like it?
+1050.0,1053.0,Subject,It was beautiful. I really liked it.
+1053.0,1060.0,Interviewer,"And what did you do when you were there besides, obviously, visit her, which was the most important thing?"
+1060.0,1080.0,Subject,"We went to Te Papa, which is a museum. We went to a place in a really nice forest. I went to her mother's best friend's house. Yeah."
+1080.0,1086.0,Interviewer,Nice. And how long was your total trip?
+1086.0,1087.0,Subject,A month.
+1087.0,1100.0,Interviewer,A month? That's beautiful. You really had time to kind of get to know the whole area a little bit and get to see what life is like over there.
+1100.0,1102.0,Subject,Yeah.
+1102.0,1110.0,Interviewer,"So when was it that either one of you proposed? Was it on that trip, then?"
+1110.0,1112.0,Subject,Yeah.
+1112.0,1118.0,Interviewer,"Oh, my gosh. Can you tell me a little bit about what that was like?"
+1118.0,1129.0,Subject,"So we were in the woods, and her mother was taking pictures. And she turned around to look at a tree, and then she turned back to me. And I was like, ""[Will you marry me?]"""
+1129.0,1134.0,Interviewer,"Oh, my gosh. That must've been such a good moment."
+1134.0,1137.0,Subject,Yeah. We've been together for three years.
+1137.0,1144.75,Interviewer,"Wow, that's a long time. And was she totally surprised, or did--?"
+1144.75,1145.0,Subject,Yeah.
+1145.0,1150.0,Interviewer,Was that part of the reason why you went on the trip? Or did it just happen?
+1150.0,1151.0,Subject,Yeah.
+1151.0,1152.0,Interviewer,It was?
+1152.0,1153.0,Subject,Yeah.
+1153.0,1161.0,Interviewer,"And were your parents aware that you were going to go propose, or did you surprise them when you came back?"
+1161.0,1163.0,Subject,I think I surprised them.
+1163.0,1167.0,Interviewer,You did? And what was their reaction?
+1167.0,1169.0,Subject,"""That's lovely. When is it going to be?"""
+1169.0,1175.0,Interviewer,"And is it going to be in New Zealand, the wedding?"
+1175.0,1190.0,Subject,I don't know yet. There will be some issues because my dad can't go in New Zealand. But we might just get something signed and then go camping.
+1190.0,1197.0,Interviewer,"That sounds fun, especially since you guys have had to be apart for so long. It might be nice just to do something, the two of you."
+1197.0,1198.0,Subject,Yeah.
+1198.0,1214.0,Interviewer,"Yeah. That's really cool. So what else was I going to ask about? Oh, yeah, can you just tell me a little bit about your fiancée? What she's like, what some of her interests are?"
+1214.0,1231.0,Subject,"She's also neurodivergent. And she's really into Dungeons and Dragons, which I am, too. And she's into outer space and video games and coding. She's super smart."
+1231.0,1252.0,Interviewer,"Sounds like it. That's awesome. And oh, yeah, I meant to ask this earlier, but what does neurodivergent mean to you, right? I mean, I know what neurodivergent means in a broad sense, but kind of, what does it mean for you to have your friends be neurodivergent and for you to identify as being neurodivergent?"
+1252.0,1258.0,Subject,"Having anything on the autism spectrum, autism, ADHD, stuff like that."
+1258.0,1267.0,Interviewer,And how has that kind of impacted your social circle or your life in any ways?
+1267.0,1278.0,Subject,"Well, I'm not really good at being social. I'm pretty bad at talking to people and reading signs."
+1278.0,1312.0,Interviewer,"It sounds you have a pretty robust friend circle, though from your new neurodivergent program and your fiancée, your sister. So I don't know. It doesn't seem like you're-- it seems like you're figuring it out and doing it your way. And I think that's really awesome. And your parents, you have a great relationship with your parents. Not everyone can forge that relationship in the way that you have. So I think you're doing a great job."
+1312.0,1314.0,Subject,Thank you.

@@ -1,0 +1,148 @@
+tmin,tmax,speaker,message
+0.0,11.0,Interviewer,"I'm going to start recording. And yeah, so we just want to learn about you and your life, so how things are going for you lately."
+11.0,15.0,Subject,"Pretty good. Just a little bit stressful, but yeah, that's about it."
+15.0,17.0,Interviewer,Stressful?
+17.0,26.0,Subject,"Because I got my own text hub that I'm trying to build. So I have to take care of my team, trying to get funding. Yeah, that's basically it."
+26.0,32.0,Interviewer,Wow. That does sound stressful. How long ago did you start?
+32.0,53.0,Subject,"About two years. But I was doing it by myself and I thought I was going to give up but then I thought, ""You know what? Let me try to build a team of interns from different colleges who believe in the product and that have a team that kind of responsible for people."
+53.0,60.0,Interviewer,Good. So what kind of company is it?
+60.0,89.0,Subject,"It's basically a financial type company in the realm of blockchain. I'm not sure if you're familiar, but it's more how we can automate transactions dealing with identity fraud, know your customer, money laundering, and stuff like that. So we use artificial intelligence to be able to automate and analyze all that data."
+89.0,102.0,Interviewer,Wow. That's unlike anything I've ever heard. And so you mentioned you wanted to give up at some point?
+102.0,135.0,Subject,"Yeah, yeah. Because I kind of wasted a fair amount of money, and I go, ""Maybe I was kind of going nowhere."" But then a friend of mine suggested, ""Why not try to find other college students with similar mindsets?"" So then I thought, ""Okay."" And now I'm like, ""I can't give up now because it gone so far."" And yeah, I'm kind of responsible for my team now."
+135.0,139.0,Interviewer,What else has been going on in your life right now?
+139.0,146.0,Subject,"Really, that's basically it. It's kind of boring, yeah. Yeah."
+146.0,148.0,Interviewer,That responsibility must be tough.
+148.0,152.0,Subject,Yeah.
+152.0,156.0,Interviewer,Didn't sound very boring to me.
+156.0,173.0,Subject,Well.
+173.0,181.0,Interviewer,I actually don't know anything about what you're doing and how stressful it must be to start something like this.
+181.0,223.0,Subject,"I mean, I guess the financial responsibility, making sure your team is taken care of, and the fact that you're trying to compete with the-- you have competition with the companies who are more established, some who are also startups. So you're trying to be ahead of the industry without being crushed. So I guess that's part of that. So it comes with the whole stressful and having responsibility and all that."
+223.0,224.0,Interviewer,Crushed?
+224.0,236.0,Subject,"Yeah, in the sense like you don't want to be destroyed by other companies because then you have no company at the end of the day."
+236.0,247.0,Interviewer,What made you start in this line of business?
+247.0,317.0,Subject,"I've been consulting for different industries from [inaudible] pharmaceutical to consulting for fashion and entertainment startups, helping companies with brand management, selling different products. And from my experience I felt like doing business was a little bit more complex and there had to be an easy way of doing business. So originally, my company [inaudible] was to help facilitate global trade similar to Amazon and Alibaba but more on the business to business end, but then we pivoted it to blockchain because one of the issues was how do you send real time payment, especially large transactions, more securely and with the click of a button even if you don't know who the other person in the different country might be, right? So you want to reduce that risk and provide opportunities for people who do business beyond their local area."
+317.0,331.0,Interviewer,"Okay. Great. So I think we covered in terms of how things are going now, and this seems to be a really big part of your life."
+331.0,332.0,Subject,Awesome. Yeah.
+332.0,335.0,Interviewer,But what about before that?
+335.0,360.0,Subject,"Besides consulting, college. I was in West Virginia and I it just kind of sucks because I was homesick and all that, so yeah. So I usually just communicate with my friends and then when I come back home just hanging out with them and traveling with them and that's all."
+360.0,364.0,Interviewer,So you do you feel that it was very different then than your life is now?
+364.0,376.0,Subject,"I guess for the most part, yeah. Because I guess when I was in West Virginia there's really nothing else to do. The closest mall was one hour driving distance."
+376.0,378.0,Interviewer,Wow.
+378.0,401.0,Subject,"So yeah, it's called-- the place I was in was Wheeling, West Virginia. So there was really nothing much to do. Even walking around, I guess the most popular thing to do was to go to this gas station called Sheetz to just eat food. It was just really boring, so yeah."
+401.0,403.0,Interviewer,What did you do at the gas station?
+403.0,407.0,Subject,"No, just eat and-- yeah."
+407.0,411.0,Interviewer,So it sounds almost like a restaurant than a gas station?
+411.0,445.0,Subject,"Yeah. Yeah. I know we don't have Sheetz in New York but it's-- think of it like it's kind of a 7-Eleven type place. I don't know. But down there it was like [inaudible]. Yeah. Yeah. And then, of course, I tried joining different groups. So one was kind of like a adventure type group so we did zip lining, kind of like those type of adventures, like climbing mountains and stuff."
+445.0,447.0,Interviewer,Wow! That sounds really exciting.
+447.0,464.0,Subject,"Yeah. It was fun being able to learn the different techniques on how to tie a rope and to climb and you'd think, ""Oh, it's as easy as tying a shoelace,"" but it's a little bit more complex. But yeah."
+464.0,464.75,Interviewer,What was it like?
+464.75,465.0,Subject,What?
+465.0,467.0,Interviewer,Learning those things.
+467.0,499.0,Subject,"It was fun. Also kind of scary because if you mess up then either you would fall or someone else would fall because you're responsible for holding the rope for another person climbing, and it doesn't even matter how much weight they are, it just matters on how you tie the rope, and using some commands, like the lay on, the lay off, and stuff like that."
+499.0,500.0,Interviewer,Wow.
+500.0,501.0,Subject,Yeah.
+501.0,502.0,Interviewer,It was exciting to do those things?
+502.0,524.0,Subject,"Yeah, yeah. And then my professor got in trouble with the dean because he tied a rope to the roof of the building making us climb the building. So yeah, so it was hard to get back those privileges again, so we had to do it outside the school."
+524.0,526.0,Interviewer,Your professor got in trouble with the dean?
+526.0,530.0,Subject,Yeah.
+530.0,533.0,Interviewer,So you had to do-- what did you have to do outside?
+533.0,548.0,Subject,"We had to go outside the school. So kind of like on a field trip to, I don't know, it was some-- the woods type area."
+548.0,550.0,Interviewer,And you could zip line there?
+550.0,561.0,Subject,"Yeah, yeah. It was already set up, the whole zip line. So you were able to zip line. You were able to climb mountains and stuff like that."
+561.0,564.0,Interviewer,What was climbing mountains like?
+564.0,583.0,Subject,"It was fun. I mean, the thing is it was on-- you're free-climbing. It was more like they already had the ropes in place so you just had to set up how you tie and just follow the guidelines, I guess."
+583.0,590.0,Interviewer,What was that like? What did it feel like to do that?
+590.0,612.0,Subject,"It was fun. Yeah. I mean, it was kind of enjoyable because, obviously, you don't do that in the city. Obviously, if you're like doing Brooklyn Borders, but getting a whole different perspective outdoors because usually I don't get a chance to do those kind of things. But yeah."
+612.0,625.0,Interviewer,Do you wish you could do things like that here?
+625.0,633.0,Subject,Sometimes. But I'm kind of just happy being here because there's a lot more to do and all.
+633.0,635.75,Interviewer,So it sounds like you like more activity?
+635.75,636.0,Subject,Yeah.
+636.0,640.0,Interviewer,So what sorts of things do you do here?
+640.0,662.0,Subject,"Basically, hang out with my friends. Things like going to bars or going to a movie, sometimes playing paintball, bowling, and stuff like that."
+662.0,664.0,Interviewer,Do you like to bowl?
+664.0,673.0,Subject,"Sometimes, yeah."
+673.0,677.0,Interviewer,"So after you said you returned to college, you were homesick?"
+677.0,679.0,Subject,"Yeah, yeah."
+679.0,682.0,Interviewer,What was that like?
+682.0,685.0,Subject,What do you mean?
+685.0,688.0,Interviewer,So what made you homesick? What did it feel like?
+688.0,718.0,Subject,"Just for the fact that all of a sudden you weren't able to do as much. Yeah, all my friends were in New York and all that so it was just mostly boredom and not much friends and stuff like that. Because in high school I was a little bit more popular but college is kind of like being a no one, nobody, so yeah."
+718.0,720.0,Interviewer,You felt like in college it was like being a nobody?
+720.0,726.0,Subject,Yeah.
+726.0,726.75,Interviewer,You felt homesick?
+726.75,727.0,Subject,Yeah.
+727.0,730.0,Interviewer,[inaudible].
+730.0,732.0,Subject,That and also how I had a really bad--
+732.0,733.0,Interviewer,All right.
+733.0,735.0,Subject,"--roommate for two years, so."
+735.0,736.0,Interviewer,Really?
+736.0,758.0,Subject,"Yeah, yeah. It was kind of extremely disturbing, the stuff he does, but yeah. That was one of the reasons why I would just talk to my friends so I could zone out and not care. I called them up."
+758.0,760.0,Interviewer,Disturbing.
+760.0,786.0,Subject,"Yeah. And kind of weird and slightly gross, I guess, just the things that he does. But I just wanted to say, but just disgusting, yeah. So it was kind of a nightmare."
+786.0,789.0,Interviewer,So you didn't get along with your roommate?
+789.0,804.0,Subject,"Well, for first two years, and then the next two years I got a different roommate and yeah, he was a lot better. We were having fun and binge watching different movies and stuff like that."
+804.0,806.0,Interviewer,What was he like?
+806.0,817.0,Subject,I guess more of a laid back type person.
+817.0,819.0,Interviewer,Are you still in touch?
+819.0,837.0,Subject,"Occasionally. But yeah, the majority of the people from my university have kind of left out of touch and it's mostly just my friends in New York that I am in touch."
+837.0,839.0,Interviewer,You're mostly just in touch with your friends from New York?
+839.0,849.0,Subject,Yeah.
+849.0,855.0,Interviewer,What kinds of things did you do with your roommate? You mentioned binge watching things.
+855.0,902.0,Subject,"Yeah. For example, like Harry Potter, it's what? Six movies. So you binge watch the entire day the entire thing. So [inaudible] was the same thing, so we would do that. Then, of course, he was also in the adventure thing so we would do the zip lining. Then if there was a small college party in someone's dorm then we would go on the weekends. Other than that, I can't say. It was just really boring there. There really nothing else I could do over there."
+902.0,908.0,Interviewer,So that transition into college seemed difficult. It seemed like a lot of changes.
+908.0,914.0,Subject,"Yeah, yeah."
+914.0,916.0,Interviewer,[inaudible]?
+916.0,919.0,Subject,You mean the college or the--?
+919.0,920.0,Interviewer,The change.
+920.0,942.0,Subject,"I guess the whole different atmosphere, so evolving to the country life, I guess, with less diversity. Yeah. Nothing much."
+942.0,944.0,Interviewer,Less diversity?
+944.0,958.0,Subject,Yeah.
+958.0,965.0,Interviewer,So how about your plans for the future? What do you think about as you think about moving forward?
+965.0,1008.0,Subject,"I guess just trying to be successful with my startup. But at the end of the day, like how I wanted to make the world a better place if that doesn't sound cheesy. Yeah, I mean, just to maybe travel around the world because I haven't done that for a long time. And when I was a kid I used to travel to different countries, Thailand, Singapore, Malaysia so I kind of want to go back to doing that again. Yeah."
+1008.0,1009.0,Interviewer,You like to travel a lot?
+1009.0,1013.0,Subject,Yeah.
+1013.0,1015.0,Interviewer,You used to travel as a child?
+1015.0,1054.0,Subject,"Yeah. My grandpa, he had a seafood business, so he would travel to different countries so he could [inaudible] giant fish. So sometimes he would take me along to different countries, and some of his business partners would show me around, from seeing different, say, Buddhist temples to, obviously, malls, stuff like that."
+1054.0,1057.0,Interviewer,What was that like?
+1057.0,1093.0,Subject,"As a kid, I would say it's like sometimes I would complain that it was too hot or I'm kind of a picky eater so I'd be like, ""Oh, I want McDonalds,"" or something like that. But other than that, I mean, it was good. I mean, the weather was always warm, so it's not that cold. You meet interesting people. Yeah, it was just like so many different interesting stories and [inaudible] as well."
+1093.0,1095.0,Interviewer,Do you have interesting stories?
+1095.0,1147.0,Subject,"I don't know. It's been a long time. Yeah. It's a long time. I mean, I could say that the stuff that you see in pictures like in the United Emirates and Singapore, I was there before all that happened. I was there when they were doing constructions and stuff like that. Yeah. I mean, yeah. I don't know if it's like interesting stories I have because I could say I had a whole entire amusement park to myself once. I was the only one in the amusement park, so I guess that was kind of fun, like the entire water park."
+1147.0,1149.0,Interviewer,"Wow, yeah."
+1149.0,1210.0,Subject,"Yeah, that was in Indonesia. I guess I went on a certain day and yeah, it was just amusing, all the lights going on it. What else? I know. There was a time where I kind of got afraid of-- when I was in Thailand I kind of got afraid of going on the elevator because I actually got stuck in one for a really long time, and luckily someone in the main lobby was able to-- they didn't know I was stuck, but they were trying to get on the elevator, so they pressed the button and then finally the elevator went down. I was like, ""You know what? I'm just going to take the staircase."" Because I just couldn't trust the elevators in Thailand. Yeah, different things."
+1210.0,1212.0,Interviewer,So you got stuck in an elevator in Thailand?
+1212.0,1226.0,Subject,Yeah. And there was no bell or emergency button or anything like that. So no one even would know I was stuck.
+1226.0,1229.0,Interviewer,What was that like?
+1229.0,1243.0,Subject,"I was scared. And this was supposed to be a five star hotel too, so."
+1243.0,1244.0,Interviewer,Sounds scary.
+1244.0,1384.0,Subject,"Yeah, yeah. And when I found out when I was on Singapore Airlines there was a missing part to the plane. I mean, the plane was able to fly, but because they had a missing part in the engine it would have been really bad, so they found out when we stopped over in Amsterdam that there was a missing part that they couldn't continue to go back to New York, so I was stuck in Amsterdam for about 24 hours. So that was a close call that they found an actual something wrong with the plane. Then I had two spoiled brats in the Emirates, when I was on the Emirates plane. They wanted to be on the business or first class seats because they thought, hey, they're privileged and stuff like that. And they were making a huge big fuss about it that-- I think it was two kids. I think one was maybe 12 or 14 and the other was 8. The older kid, he was like, ""You know what? I don't like this, what the stewardess and all those are doing, so I'm just going to leave."" And you're not allowed to leave the plane once they close the door, but he just took his brother and just left. And then I was unfortunate to sit like right next to them so they had-- like we were there for almost two hours because they had to get security checking like, ""Oh, are these kids bad children? Or did they leave anything on the plane?"" and stuff like that. So we just wasted. So it was kind of like an extreme, weird experience having to see that. But, of course, traveling, you see a lot of the crazy things on the plane, but yeah."
+1384.0,1387.0,Interviewer,Do you see a lot of crazy things when you're traveling?
+1387.0,1427.0,Subject,"Yeah. If I'm talking to drunk people, some people who just don't have manners. Some locals are extremely nice. Let's see. Yeah, I mean, that's all I can think of."
+1427.0,1438.0,Interviewer,So has there been anything that we didn't think to ask you about to understand what it's like to be [inaudible]?
+1438.0,1442.0,Subject,I have no idea.
+1442.0,1446.0,Interviewer,What makes you want to go back to these places?
+1446.0,1498.0,Subject,"Because now I'm older, more, better perspective. And that they're all more-- it changed completely, right? So it got better, the places. Back then it seemed-- I don't want to say that in a bad way but it seemed like a third world country kind of thing. Like United Emirates now you know is extremely wealthy but back then it was not in the best of shape. Singapore, I mean, it was always nice, but they didn't have much culturally diverse and more newer attractions and stuff like that in Singapore, so those are the things. Yeah."
+1498.0,1510.0,Interviewer,And what kinds of things did you see in United Arab Emirates that you think would be different now?
+1510.0,1579.0,Subject,"Oh. I mean, back then it was all under construction, right? So you were not able to see some of the buildings. I think a couple of years ago I was in United Emirates for 24 hours and I was doing Ramadan day. And I didn't even know what Ramadan was until I found out like, ""Oh, you're not allowed to eat,"" so I can't even buy food at a restaurant and eat because you're not allowed to. You're not allowed to eat or drink until at night. So I had to only buy the food and take it to the hotel to do that. And from that 24 hours I was able to see they had like really nice malls, hotels, like the Atlantis where you are able to-- they had a huge water slide. They had these palm island, where people would buy houses, like these artificial islands. So yeah, those things were pretty nice."
+1579.0,1583.0,Interviewer,It does sound nice. People would buy houses on these artificial islands?
+1583.0,1715.0,Subject,"Yeah, yeah. I suppose I wouldn't because you never know if there's a tsunami or anything like that, but yeah. And they would get the sand from, I think, other parts of the country and transport all of it so they could make that artificial island. Yeah. And I was also in New Zealand as well before and after there was a huge earthquake, I think around 2007, 2008. So before, New Zealand was really nice, and then after the earthquake they had to do reconstructing so they made this one building out of containers. You know the trucking containers? They used that to make a huge building and when you go inside you wouldn't even think that you're in a container. That's how nice it is. And the weather was kind of the opposite of here. So if it's winter here, it's summer over there. It's summer here, it's winter there. So I went on both seasons. The summer, of course, is really nice. Especially this place called Queenstown where you see a lot of tourists from all over the world come in to do surfing, jet skiing, parachuting, all these type of activities. They even have this one bar where it was completely made out of ice and you had to wear a jacket because it was that cold, and the shot glasses was made out of ice as well. I think it's called the Ice Room or something like that, so that was pretty fun."
+1715.0,1718.0,Interviewer,What was it like in the Ice Room?
+1718.0,1740.0,Subject,"Extremely cold. I mean, they give you a jacket and everything but it's just a nice atmosphere. You have chairs that was ice, almost as if you're in the North Pole, kind of."
+1740.0,1743.0,Interviewer,What else did you do there? You said there were a lot of activities there.
+1743.0,1750.0,Subject,Yeah. So jet skiing.
+1750.0,1751.0,Interviewer,What was that like?
+1751.0,1830.0,Subject,"That was pretty fun. Yeah. And also kind of like big banana boats which is-- I don't know the actual term, but it's like an inflatable banana, and you're sitting on it, and then a person in a speed boat would-- the rope is tied on and you're just like gliding so that was kind of fun. Yeah."
+1830.0,1834.0,Interviewer,"I know it seems like a lot to take in. Yeah, it seems like a lot to take in."
+1834.0,1835.0,Subject,Yeah.
+1835.0,1845.0,Interviewer,It's all very exciting. Exciting life. Is there anything else that you think we missed?
+1845.0,1847.0,Subject,"Wait, say that again?"
+1847.0,1852.0,Interviewer,Is there anything else you think we missed? Any other exciting adventures?
+1852.0,2007.0,Subject,"Well, I mean, maybe a couple, I guess. I mean, if you're talking about travels, to a certain extent, there's also one time where I was in California with some friends and we went to Sea World. And my friends wanted to go to Tijuana, Mexico, and I was like, ""No. I don't want to go to Mexico. It's a really bad place, especially the Tijuana place."" So I slept in the car thinking, ""Okay, we're going back to the hotel."" I wake up, I'm in Mexico. So I was kind of complaining a little bit. And while my friends were trying to find a parking, we stopped at a red light, which is, of course, part of the law, but we stopped above a white line, and all of a sudden a police officer comes and he tells us to pull over. So we pulled over. And then he says, ""You know what? I need you to pull over over there."" So we pulled over again. And then he says, ""I need you to pull over to another place."" And this is where my friends and I are starting to get scared, like, ""What is this guy doing? Is he trying to rob us or anything like that?"" And luckily, I knew a little bit of Spanish so I was saying, ""I think he's wanting a bribe."" I think he wants some denaros or money. And so I said, ""Are you wanting money?"" He says, ""Yes, I want US$20,000. And we're like, ""Oh, we don't have this kind of money,"" and all that. And the thing is he was taking us away from the US border and that's what was kind of scary. So when I asked him, he said-- we told him we didn't have the money or anything like that but we only have like $20 in our pocket. So he said, ""Fine. I'll take that."" So we gave him the $20 and then we're like, ""You know what? Let's just go straight back to the US."" And that was the longest, I think like two or three hours just to get to the US because when you're going to the border it takes a-- I'm not even exaggerating. It takes a long time because it moves maybe every 20 minutes like an inch. It takes a really long time to get back to the US. And we were in a rental car and I didn't want anything to happen, so."
+2007.0,2008.0,Interviewer,That's crazy.
+2008.0,2014.0,Subject,Yeah.
+2014.0,2016.0,Interviewer,You gave him all the money they had?
+2016.0,2023.0,Subject,"No, not really. We just gave him some and obviously we kept a couple, yeah."
+2023.0,2024.0,Interviewer,"Okay, so you weren't stranded."
+2024.0,2028.0,Subject,"Yeah, yeah."
+2028.0,2032.75,Interviewer,"Oh. Well, you certainly had many adventures."
+2032.75,2033.0,Subject,Yeah.
+2033.0,2038.0,Interviewer,I think we're good.

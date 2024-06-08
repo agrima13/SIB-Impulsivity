@@ -1,0 +1,189 @@
+tmin,tmax,speaker,message
+1.0,6.0,Interviewer,"The first question that I'll ask you is just how things have been going for you lately?
+"
+6.0,23.0,Subject,"It's been going pretty well. I've been feeling more energetic, calmer, feeling like I'm capable in dealing with difficult and stressful situations.  
+"
+23.0,29.0,Interviewer,"Nice. Is that different from how you were feeling before?
+"
+29.0,64.0,Subject,"Yes. So it was exactly a year ago, I was hospitalized for mental health reasons. And before that, I had about two or three years of depression and anxiety. And I think for the past year, I've just been doing a lot of self-care and making a lot of improvements. I am happy with the positive changes that I'm seeing. 
+"
+64.0,71.0,Interviewer,"That's wonderful. So what do you do for self-care?
+"
+71.0,85.0,Subject,"I do mainly meditation. I meditate almost every day, roughly 15 or 20 minutes. And, occasionally, I cook for myself. 
+"
+85.0,91.0,Interviewer,"And what do you think meditation does for you?
+"
+91.0,159.0,Subject,"I think it helps me see reality as it is. I'm able to take a step back and really be aware of what I'm feeling and thinking. I like the metaphor that if you treat thinking like a water fountain, there's nothing wrong with water running, but you want to be able turn it on and off. If it runs all the time, and you're not able to control it, you become the water fountain itself, and it's impossible to not have negative thoughts. There's also nothing wrong with negative thoughts. But if you are not aware that you're having negative thoughts and the impact they're having on you, it could be harmful for your mental health. 
+"
+159.0,164.0,Interviewer,"And do you think that was happening before?
+"
+164.0,166.0,Subject,"Yeah. 
+"
+166.0,174.0,Interviewer,"What kinds of things do you think kind of brought you down the most?
+"
+174.0,203.0,Subject,"I'm not sure if it's the most, but I beat myself up a lot. And I feel anxious about the future, guilty and ashamed of the past where I've felt that way. 
+"
+203.0,205.0,Interviewer,"But you don't any more?
+"
+205.0,208.0,Subject,"A lot less so. 
+"
+208.0,219.0,Interviewer,"And do you know why you feel those things about the past, or is it something that's just kind of in the background?
+"
+219.0,240.0,Subject,"Well, I think it's just constantly worrying about whether I did the right thing and how I could make things better for the future. 
+"
+240.0,251.0,Interviewer,"So what kind of things do you think you were or are worried about having made kind of the wrong decisions in?
+ "
+251.0,287.0,Subject,"Almost everything. It's decisions with friends and family, with my studies, with how I spent my time, with how to maximize resources, specifically, what I buy from the grocery store. Yeah, so it could be about anything. 
+"
+287.0,295.0,Interviewer,"But it sounds like now it's not as [inaudible] as impactful in your life?
+"
+295.0,379.0,Subject,"I think now I feel much more comfortable letting go of the past. I think I have accepted that there's nothing I can do about what happened in the past. And so there's no need to create more stories, more narratives out of the things that happened in the past. And there's no point in feeling too anxious about the future either because with the passage of each second, the future becomes the present. So if I could just focus on the now and do what I think is right for the now, the future will sort itself out. Also, there are always things that are going to be outside of my control. So I sort of gave up trying to control everything and have everything work out exactly the way I want them to.
+"
+379.0,391.0,Interviewer,"Yeah. That's great. What do you think you've kind of let go of some control about?
+"
+391.0,455.0,Subject,"I used to feel really anxious about whether I would be able to stay in the United States after I graduate because I'm an international student and I have certain hopes and wishes on where I would live or what I would do for my job. Now, I feel like it's more important for me to prepare myself to be able to live and work everywhere and anywhere. And if certain things are outside of my control, I will just be prepared for what is to come, and that's all that I can do. 
+"
+455.0,477.0,Interviewer,"Sounds like a great outlook on life. What do you see as kind of a driving force in this change in the way you think about life and thinking?
+"
+477.0,479.0,Subject,"The driving force behind the change?
+"
+479.0,484.0,Interviewer,"Mm-hmm. 
+"
+484.0,592.0,Subject,"I don't know if it was rock bottom when I went to the hospital. Based on past experience, sometimes, I would think I've hit rock bottom, and then I would go further down. But I think it was definitely a devastating state. So having been there and recovering from it gave me a new perspective and outlook on how life works and just a general understanding of life. And I think retrospective, I was able to look back on the thought patterns I had in the past. And instead of being overwhelmed by the feelings, I was able to look at the feelings and the emotions from some distance and seeing how they impacted me. And yeah, I think that, with the help of meditation, helps me realize how exactly it affected me and helped me deal with situations like that when it comes up again. 
+"
+592.0,617.0,Interviewer,"And do you think that's helped kind of your life in general? Has it affected school, your relationships? Things that you had mentioned that you thought you had maybe made mistakes about, do you think you're kind of more-- are you feeling better about your decisions now?
+"
+617.0,619.0,Subject,"Which decisions?
+"
+619.0,620.0,Interviewer,"All of them. 
+"
+620.0,621.0,Subject,"Like the--
+"
+621.0,622.0,Interviewer,"Mm-hmm. 
+"
+622.0,657.0,Subject,"Yeah. I mean, I think now I feel like there might be alternative universes, but I live in the one I live in right now. So there is no other way that things could've turned out. So I fully accept what has happened in the past. 
+"
+657.0,660.0,Interviewer,"And how about the present? How's that going?
+"
+660.0,688.0,Subject,"It's going pretty well. I think this mindset helped me a lot in feeling happier with my friends and family. Also, I feel like I have a healthier relationship with myself. 
+"
+688.0,696.0,Interviewer,"How do you think it's kind of been a positive thing for your relationships?
+"
+696.0,795.0,Subject,"I used to feel very self-conscious reaching out to my friends, or I would turn down social situations because I felt awkward or I would overthink what others might think about me. Or are they judging me based on the things that I say and do? I think, recently, I've been feeling less self-conscious about it. It's kind of like the-- it's generally just letting go of the things that you can't possibly control. So I can't control what other people think about me. And also, I realized that there are certain things-- on top of that, there are certain things that I could do that comes with very little risk if it doesn't work out, but very big rewards if it does work out, like hitting up a friend who I haven't spoken to in a while. It's like if I don't reach out to them, we'll probably never speak to each other ever again. And if I reach out to them, and they don't respond, things stay that way. But if I do reach out to them and they do respond, I've rekindled a nice relationship. So it's good. 
+"
+795.0,798.0,Interviewer,"I see. So the trade off is worth it?
+"
+798.0,799.0,Subject,"Yeah. 
+"
+799.0,829.0,Interviewer,"Nice. And I know you're finishing up college soon. And we've talked a little bit about not really being able to control the future. But what are some of the things that you imagine for the future?
+"
+829.0,885.0,Subject,"I imagine graduating [laughter] this December. And I'm still looking for jobs. I'm not sure what I'm going to do. But I do imagine myself, or more like I hope that I will keep learning and stay curious about things and people around me. And I hope that I will not be so involved by work, but also have quality time with friends and family. 
+"
+885.0,906.0,Interviewer,"And how do you see yourself spending that time? So what do you imagine your work will be like? What do you imagine or hope your kind of friendships are like as you kind of move into a new phase in life?
+ "
+906.0,981.0,Subject,"I'm not sure what my work will be like. I'm looking into roles that are quite different from each other. So depending on what I go into, it could look quite different. And I know that after I graduate, it would be more difficult for me to be in touch with my friends. I mean, some of them have already graduated, so I can sort of see getting in touch with them is going to be like-- the level of difficulty is going to be same for getting in touch with the rest of my friends. But I think for those that live in the same city, I'll just hit them up and see if they want to get food and go out. And I actually have a lot of friends who don't live in the same city as I do. For those who move away, I would just hit them up on social media. 
+ "
+981.0,993.0,Interviewer,"Nice. And you said you were applying to lots of different types of jobs. What do you find yourself the most drawn to?
+"
+993.0,1025.0,Subject,"I'm interested in working on artificial intelligence. And some of my friends are firm believers that artificial intelligence will become an existential risk. I'm still trying to figure out how I feel about that. But I think it would be exciting if I could work in the field. 
+"
+1025.0,1029.0,Interviewer,"What makes it exciting to you?
+"
+1029.0,1052.0,Subject,"I think it is-- the field is just moving very quickly, and I think it poses a lot of fundamental questions about human existence and intelligence.
+"
+1052.0,1054.0,Interviewer,"[inaudible]?
+"
+1054.0,1055.0,Subject,"Like what is intelligence?
+"
+1055.0,1057.0,Interviewer,"Mm-hmm. 
+"
+1057.0,1111.0,Subject,"I don't know [laughter]. And there is also a lot of ethics, questions that apply. Also, that's more on the long term, but on the short term, there's implementation of AI systems. That's going to cause much turbulence to current society. Yeah, so whether I work on policy or the technical side, it seems to be very, or it's about to be, influential work and yeah, things in the field [inaudible]. There's great people in the field, so.
+"
+1111.0,1124.0,Interviewer,"Yeah. It's really a booming field. What do you mean it'll change society drastically?
+"
+1124.0,1248.0,Subject,"Well, I mean, right now, already, we're seeing companies adopting algorithms, say, in their hiring process. Or algorithms are trained using data from the past and they try to predict the future by analyzing data in the past. That works in the laboratory, but if you put it into the real world-- there's an example of the Titanic data. So they had an Excel form of all the people who's-- a list of passengers who was on board Titanic. And for each passenger, they have data on whether this person survived, what class they were in, what kind of ticket they hold, and the algorithm trained using that data says that if you're on Titanic and you're in first class, you're much more likely to survive. That is kind of a problematic-- well, the algorithm itself is fine in terms of the technicalities, but that is kind of a problematic result because there are human factors behind the result. The doors to the third-class cabins were locked, so that's why they had a much lower survival rate. Yeah, so when we're adopting AI systems like this, it's really important that we try to understand what's behind the data instead of just taking them as the full story. 
+"
+1248.0,1258.0,Interviewer,"Wow. That is really something. Is this the kind of work you want to be doing?
+"
+1258.0,1283.0,Subject,"I'm not sure. It's a really large field, and I would say people from all disciplines could find their little own niche in it. And I'm still talking to people and trying to figure out what's going on in the field and see where I'm most interested in, where I could help.
+"
+1283.0,1301.0,Interviewer,"And you mentioned policy before. It seems like while you're in computer science, you also have other interests. Is policy something you'd do?
+"
+1301.0,1303.0,Subject,"No, but I'm also a history major. 
+"
+1303.0,1309.0,Interviewer,"Interesting. So what brought you to history?
+"
+1309.0,1381.0,Subject,"I guess I liked CS for how it's super hands on and practical, and if I have an idea in my head, I can just bootstrap it with code or whatever. But it felt more like a toolkit. And I didn't want to walk around with a toolkit not knowing what to do with it. So I like history because it puts things into perspective. The field talks about everything that we take for granted, how it developed into the way it is today. And I guess, initially, I was kind of hoping that it would help me understand or shed light on how things would become in the future. Now I'm less optimistic about forecasting in general, but yeah. 
+"
+1381.0,1383.0,Interviewer,"Why is that?
+"
+1383.0,1414.0,Subject,"Well, there's just too many factors to be considered in the model. And I think human beings have been obsessed with predicting the future, but we are very, very bad at it [laughter]. 
+"
+1414.0,1424.0,Interviewer,"That's fair, I guess. And so what type of history, in particular, have you been studying?
+"
+1424.0,1442.0,Subject,"Nothing particular. My school requires both classes from different continents and different eras. So you don't get to concentrate too much.
+"
+1442.0,1460.0,Interviewer,"And I know as you kind of wrap up, I remember there was a lot of big projects, theses. Have you been kind of doing any large projects that you find particularly interesting? 
+"
+1460.0,1467.0,Subject,"I'm working on a research paper about the history of artificial intelligence.
+"
+1467.0,1471.0,Interviewer,"Nice. Combining them just and--
+"
+1471.0,1473.0,Subject,"Never saw it coming [laughter].
+"
+1473.0,1477.0,Interviewer,"Tell me a little bit about that. 
+"
+1477.0,1549.0,Subject,"Yeah. So I want to look at when the term artificial intelligence was first coined in 1956 at a Dartmouth College conference, how the computer scientists thought about the field. Or what were their visions? Did they expect any implications of this technology? And then, also, I want to look at 2001: A Space Odyssey, the film, because it was one of the most influential times when supercomputers were presented to the general public. So I'm interested in what went into the design of HAL 9000 as a character. 
+"
+1549.0,1551.0,Interviewer,"I've never seen that [inaudible].
+"
+1551.0,1556.0,Subject,"I saw it recently. But it's a film classic. 
+"
+1556.0,1568.0,Interviewer,"So how is it introduced to the-- how was artificial intelligence introduced through this movie to the public?
+"
+1568.0,1622.0,Subject,"I would say the film itself is very broad because it starts with prehuman eras as in us as chimpanzees. The film was made in 1968. And then it forecasted that by 2001, we would have supercomputers, and space travel would be commuting to work. Yeah. So the supercomputer is a very small element of it. It wasn't fully on that. But the supercomputer is also, I'd say, the antagonist in the story. Yeah. 
+"
+1622.0,1627.0,Interviewer,"And is it anything like the supercomputers we have now?
+"
+1627.0,1647.0,Subject,"No. No. The supercomputer in the film has at least human-level intelligence, a bit higher. So yeah, because it's a computer, so it remembers everything and calculates everything. Yeah. 
+"
+1647.0,1655.0,Interviewer,"[inaudible] a really interesting paper. Is that something you're working on this semester?
+"
+1655.0,1659.0,Subject,"Yes. And it's due very soon [laughter].
+"
+1659.0,1666.0,Interviewer,"Yeah. It's that time of year. And you're traveling for the summer. What do you expect to be doing?
+"
+1666.0,1669.0,Subject,"I'm going to a meditation retreat for two weeks.
+"
+1669.0,1670.0,Interviewer,"Wow. That's awesome. 
+"
+1670.0,1694.0,Subject,"Yeah. So that's happening in California. I'm trying to reach out to people working in the field of artificial intelligence during summer, as well, to learn more about what they're doing. Yeah. And then I'll be home in China for a month. 
+"
+1694.0,1695.0,Interviewer,"Are you excited?
+"
+1695.0,1697.0,Subject,"Yeah. 
+"
+1697.0,1701.0,Interviewer,"What kinds of things do you do when you go home?
+"
+1701.0,1718.0,Subject,"Well, I have summer classes this time when I'm home. But it's going to be in a different city, so I get to see-- I'll get to live in a city that I've never been-- well, I was there for two days, but I've never lived in that city before. And so I'll live there for one month. That's exciting. They have great food [laughter].
+"
+1718.0,1729.0,Interviewer,"Nice. And what are the classes for?
+"
+1729.0,1734.0,Subject,"They are math classes. What fun [laughter].
+"
+1734.0,1737.0,Interviewer,"And why?
+"
+1737.0,1738.0,Subject,"Why?
+"
+1738.0,1739.0,Interviewer,"Yeah. 
+"
+1739.0,1761.0,Subject,"Well, I need to take the classes for my degree, but also, I haven't been home in a while. So I want to take them in China instead of in the US. 
+"
+1761.0,1767.0,Interviewer,"And the place you'll be is close to family even if it's not home home?
+"
+1767.0,1773.0,Subject,"Not that close, but my parents did say they're going to stay with me for a while. 
+"
+1773.0,1779.0,Interviewer,"Oh, nice. That's great. Are you close with them?
+"
+1779.0,1782.0,Subject,"Yeah. I'm pretty close. 
+"
